@@ -1,0 +1,890 @@
+Position,Const,Created,Modified,Description,Title,URL,Title Type,IMDb Rating,Runtime (mins),Year,Genres,Num Votes,Release Date,Directors
+1,tt6173484,2019-11-24,2019-11-24,Indianapolis 2019,"Standing Up, Falling Down",https://www.imdb.com/title/tt6173484/,movie,8.0,91,2019,"Comedy, Drama",36,2019-04-25,Matt Ratner
+2,tt1824932,2019-11-24,2019-11-24,Montreal 2019,Canción sin nombre,https://www.imdb.com/title/tt1824932/,movie,6.9,97,2019,Drama,129,2019-05-16,Melina León
+3,tt9261284,2019-11-24,2019-11-24,Chemnitz 2019,Eia jõulud Tondikakul,https://www.imdb.com/title/tt9261284/,movie,8.0,90,2018,Family,209,2018-11-17,Anu Aun
+4,tt2398149,2019-11-24,2019-11-24,Venice 2019,J'accuse,https://www.imdb.com/title/tt2398149/,movie,7.4,132,2019,"Drama, History, Thriller",1394,2019-08-30,Roman Polanski
+5,tt9028522,2019-11-24,2019-11-24,Venice 2019,White on White,https://www.imdb.com/title/tt9028522/,movie,6.4,100,2019,Drama,71,2019-09-03,Théo Court
+6,tt10907844,2019-11-21,2019-11-21,Busan 2019,Running to the Sky,https://www.imdb.com/title/tt10907844/,movie,,88,2019,Drama,,2019-10-07,Mirlan Abdykalykov
+7,tt8471116,2019-11-21,2019-11-21,Warsaw 2019,Cat in the Wall,https://www.imdb.com/title/tt8471116/,movie,6.2,92,2019,Drama,53,2019-08-15,"Mina Mileva, Vesela Kazakova"
+8,tt6390668,2019-11-21,2019-11-21,Valladolid 2019,A Vida Invisível,https://www.imdb.com/title/tt6390668/,movie,8.0,139,2019,Drama,980,2019-05-20,Karim Aïnouz
+9,tt9792010,2019-11-21,2019-11-21,Leipzig 2019,Exemplary Behaviour,https://www.imdb.com/title/tt9792010/,movie,,85,2019,Documentary,,2019-10-31,"Nerijus Milerius, Audrius Mickevicius"
+10,tt5665630,2019-11-21,2019-11-21,Riga 2019,Skandinaavia vaikus,https://www.imdb.com/title/tt5665630/,movie,6.4,80,2019,"Drama, Thriller",73,2019-03-29,Martti Helde
+11,tt7725384,2019-10-20,2019-10-20,El Gouna 2019,1982,https://www.imdb.com/title/tt7725384/,movie,7.1,100,2019,"Drama, History",70,2019-09-08,Oualid Mouaness
+12,tt9681728,2019-10-20,2019-10-20,Vladivostok 2019,Malchik russkiy,https://www.imdb.com/title/tt9681728/,movie,6.0,72,2019,"Drama, War",74,2019-02-10,Alexander Zolotukhin
+13,tt7901786,2019-10-20,2019-10-20,Duhok 2019,Kamion,https://www.imdb.com/title/tt7901786/,movie,6.7,,2018,Drama,15,2018-02-03,Kambuzia Partovi
+14,tt8923500,2019-10-20,2019-10-20,St. Petersburg 2019,Midnight Traveler,https://www.imdb.com/title/tt8923500/,movie,7.4,88,2019,"Documentary, War",228,2019-01-27,Hassan Fazili
+15,tt10475900,2019-10-20,2019-10-20,Toronto 2019,Murmur,https://www.imdb.com/title/tt10475900/,movie,5.7,84,2019,Drama,23,2019-09-06,Heather Young
+16,tt4193072,2019-10-20,2019-10-20,Toronto 2019,How to Build a Girl,https://www.imdb.com/title/tt4193072/,movie,6.7,102,2019,Comedy,51,2019-09-07,Coky Giedroyc
+17,tt7937168,2019-10-20,2019-10-20,San Sebastian 2019,La trinchera infinita,https://www.imdb.com/title/tt7937168/,movie,7.8,147,2019,Drama,307,2019-09-22,"Aitor Arregi, Jon Garaño, Jose Mari Goenaga"
+18,tt10603466,2019-09-20,2019-10-20,Locarno 2019,The Fever,https://www.imdb.com/title/tt10603466/,movie,6.4,98,2019,Thriller,67,2019-08-08,Maya Da-Rin
+19,tt7523180,2019-09-20,2019-10-20,Haugesund 2019,Før frosten,https://www.imdb.com/title/tt7523180/,movie,7.1,104,2018,Drama,448,2018-09-07,Michael Noer
+20,tt7984734,2019-08-21,2019-10-20,"Cannes 2019, Miskolc 2019",The Lighthouse,https://www.imdb.com/title/tt7984734/,movie,8.3,109,2019,"Drama, Fantasy, Horror, Mystery",17056,2019-05-19,Robert Eggers
+21,tt10199640,2019-08-21,2019-08-21,Cannes 2019,Dylda,https://www.imdb.com/title/tt10199640/,movie,7.3,130,2019,"Drama, War",1848,2019-05-16,Kantemir Balagov
+22,tt8359842,2019-08-21,2019-08-21,Cannes 2019,It Must Be Heaven,https://www.imdb.com/title/tt8359842/,movie,7.3,97,2019,Comedy,616,2019-05-24,Elia Suleiman
+23,tt8738964,2019-08-21,2019-08-21,Cluj-Napoca 2019,Kler,https://www.imdb.com/title/tt8738964/,movie,7.4,133,2018,Drama,3222,2018-09-18,Wojciech Smarzowski
+24,tt8535968,2019-08-21,2019-08-21,Schwerin 2019,Systemsprenger,https://www.imdb.com/title/tt8535968/,movie,8.1,118,2019,Drama,1725,2019-02-08,Nora Fingscheidt
+25,tt5117326,2019-08-21,2019-08-21,Seattle 2019,International Falls,https://www.imdb.com/title/tt5117326/,movie,8.1,93,2019,Comedy,27,2019-04-14,Amber McGinnis
+26,tt8343886,2019-08-21,2019-08-21,Karlovy Vary 2019,La virgen de agosto,https://www.imdb.com/title/tt8343886/,movie,6.9,125,2019,Drama,198,2019-08-15,Jonás Trueba
+27,tt7275830,2019-08-21,2019-08-21,Munich 2019,Lara,https://www.imdb.com/title/tt7275830/,movie,7.4,98,2019,"Drama, Music",351,2019-06-30,Jan-Ole Gerster
+28,tt8682932,2019-08-21,2019-08-21,Moscow 2019,Lune de miel,https://www.imdb.com/title/tt8682932/,movie,6.1,88,2018,Comedy,62,2018-08-24,Élise Otzenberger
+29,tt8751804,2019-08-21,2019-08-21,Pristina 2019,Anons,https://www.imdb.com/title/tt8751804/,movie,6.7,94,2018,"Comedy, Drama",828,2018-09-01,Mahmut Fazil Coskun
+30,tt8054608,2019-08-21,2019-08-21,Motovun 2019,"Gospod postoi, imeto i' e Petrunija",https://www.imdb.com/title/tt8054608/,movie,6.9,100,2019,Drama,788,2019-02-10,Teona Strugar Mitevska
+31,tt7876510,2019-08-21,2019-08-21,Odessa 2019,My Thoughts Are Silent,https://www.imdb.com/title/tt7876510/,movie,8.2,104,2019,Comedy,70,2019-07-04,Antonio Lukich
+32,tt8753730,2019-05-20,2019-08-21,Wiesbaden 2019,Strip and War,https://www.imdb.com/title/tt8753730/,movie,6.8,68,2019,"Documentary, Comedy, Drama, Family, War",11,2019-04-12,Andrei Kutsila
+33,tt6493292,2019-05-20,2019-05-20,Lecce 2019,Two for Joy,https://www.imdb.com/title/tt6493292/,movie,6.1,90,2018,Drama,164,2018-06-23,Tom Beard
+34,tt9418878,2019-05-20,2019-05-20,Istanbul 2019,Kiz Kardesler,https://www.imdb.com/title/tt9418878/,movie,7.5,108,2019,Drama,883,2019-02-11,Emin Alper
+35,tt9658178,2019-05-20,2019-05-20,Istanbul 2019,Talking About Trees,https://www.imdb.com/title/tt9658178/,movie,8.0,90,2019,Documentary,139,2019-02-21,Suhaib Gasmelbari
+36,tt9358246,2019-04-20,2019-04-20,Toulouse 2019,Advocate,https://www.imdb.com/title/tt9358246/,movie,7.3,108,2019,Documentary,79,2019-01-27,"Philippe Bellaiche, Rachel Leah Jones"
+37,tt8116116,2019-04-20,2019-04-20,Toulouse 2019,Todos somos marineros,https://www.imdb.com/title/tt8116116/,movie,7.4,104,2019,Drama,8,2019-01-27,Miguel Angel Moulet
+38,tt5355580,2019-04-20,2019-04-20,Guadalajara 2019,Vagoneros,https://www.imdb.com/title/tt5355580/,movie,,109,2019,Drama,,2019-07-26,Álvaro Curiel
+39,tt7016254,2019-03-20,2019-03-20,Berlin 2019,Synonymes,https://www.imdb.com/title/tt7016254/,movie,6.7,123,2019,Drama,2416,2019-02-13,Nadav Lapid
+40,tt8452422,2019-03-20,2019-03-20,Berlin 2019,Dafne,https://www.imdb.com/title/tt8452422/,movie,7.2,94,2019,Drama,72,2019-02-10,Federico Bondi
+41,tt9130810,2019-03-20,2019-03-20,Berlin 2019,Die Kinder der Toten,https://www.imdb.com/title/tt9130810/,movie,5.8,90,2019,Mystery,136,2019-02-08,"Kelly Copper, Pavol Liska"
+42,tt7285198,2019-03-20,2019-03-20,Zagreb 2019,Stories of the Half-Light,https://www.imdb.com/title/tt7285198/,movie,8.3,68,2018,"Documentary, Biography",9,2018-06-19,Luca Magi
+43,tt7205942,2019-02-20,2019-02-20,Tromsø 2019,Gundermann,https://www.imdb.com/title/tt7205942/,movie,7.4,128,2018,"Biography, Drama, Music",1100,2018-08-19,Andreas Dresen
+44,tt8125842,2019-02-20,2019-02-20,Gothenburg 2019,Blindsone,https://www.imdb.com/title/tt8125842/,movie,7.2,98,2018,Drama,557,2018-08-20,Tuva Novotny
+45,tt8075192,2019-02-20,2019-02-20,Palm Springs 2019,Manbiki kazoku,https://www.imdb.com/title/tt8075192/,movie,8.0,121,2018,"Crime, Drama",41565,2018-05-13,Hirokazu Koreeda
+46,tt5265964,2019-01-20,2019-01-21,Havana 2018,Nuestro tiempo,https://www.imdb.com/title/tt5265964/,movie,6.9,177,2018,Drama,991,2018-09-05,Carlos Reygadas
+47,tt7581572,2019-01-20,2019-01-21,Kerala 2018,Sudani from Nigeria,https://www.imdb.com/title/tt7581572/,movie,8.2,123,2018,"Comedy, Sport",2324,2018-03-23,Zakariya Mohammed
+48,tt8900098,2018-12-25,2018-12-25,Rio de Janeiro 2018,Deslembro,https://www.imdb.com/title/tt8900098/,movie,7.2,96,2018,Drama,173,2018-08-31,Flávia Castro
+49,tt9005376,2018-12-25,2018-12-25,Mannheim-Heidelberg 2018,Rooz-haye Narenji,https://www.imdb.com/title/tt9005376/,movie,6.4,102,2018,Drama,49,2018-09-11,Arash Lahooti
+50,tt8296592,2018-12-25,2018-12-25,Thessaloniki 2018,Sofia,https://www.imdb.com/title/tt8296592/,movie,6.5,80,2018,Drama,564,2018-05-16,Meryem Benm'Barek-Aloïsi
+51,tt6590856,2018-12-25,2018-12-25,Thessaloniki 2018,Pause,https://www.imdb.com/title/tt6590856/,movie,7.3,96,2018,Drama,447,2018-07-04,Tonia Mishiali
+52,tt7649320,2018-12-25,2018-12-25,Taipei 2018,Bao xue jiang zhi,https://www.imdb.com/title/tt7649320/,movie,6.5,120,2017,Crime,1176,2017-10-29,Yue Dong
+53,tt6792282,2018-12-25,2018-12-25,Cairo 2018,La noche de 12 años,https://www.imdb.com/title/tt6792282/,movie,7.6,122,2018,"Biography, Crime, Drama, History",5854,2018-09-01,Álvaro Brechner
+54,tt7534118,2018-12-25,2018-12-25,Tallinn 2018,Marche ou crève,https://www.imdb.com/title/tt7534118/,movie,7.1,85,2018,Drama,39,2018-10-02,Margaux Bonhomme
+55,tt8523292,2018-12-25,2018-12-25,"Gijon 2018
+Athens 2018",Vsechno bude,https://www.imdb.com/title/tt8523292/,movie,6.6,85,2018,"Comedy, Drama",229,2018-07-01,Olmo Omerzu
+56,tt4614612,2018-12-25,2018-12-25,Bygdoszscz 2018,Peterloo,https://www.imdb.com/title/tt4614612/,movie,6.4,154,2018,"Drama, History",2872,2018-09-01,Mike Leigh
+57,tt6835498,2018-12-25,2018-12-25,Bratislava 2018,Khrustal,https://www.imdb.com/title/tt6835498/,movie,7.0,95,2018,Drama,656,2018-07-01,Darya Zhuk
+58,tt6543652,2018-12-25,2018-12-25,Stockholm 2018,Zimna wojna,https://www.imdb.com/title/tt6543652/,movie,7.6,89,2018,"Drama, History, Music, Romance",38446,2018-05-10,Pawel Pawlikowski
+59,tt5942864,2018-12-25,2018-12-25,Ljubljana 2018,Styx,https://www.imdb.com/title/tt5942864/,movie,6.4,94,2018,Drama,2066,2018-02-16,Wolfgang Fischer
+60,tt6937878,2018-12-25,2018-12-25,Los Cabos 2018,Feral,https://www.imdb.com/title/tt6937878/,movie,6.4,101,2018,"Drama, Horror, Mystery, Thriller",28,2018-09-20,Andrés Kaiser
+61,tt7163824,2018-12-25,2018-12-25,Cottbus 2018,Teret,https://www.imdb.com/title/tt7163824/,movie,6.4,98,2018,Drama,616,2018-05-12,Ognjen Glavonic
+62,tt8334056,2018-12-25,2018-12-25,Sevilla 2018,Un violent désir de bonheur,https://www.imdb.com/title/tt8334056/,movie,6.4,75,2018,Drama,50,2018-05-13,Clément Schneider
+63,tt9130674,2018-11-20,2018-11-20,Busan 2018,The Red Phallus,https://www.imdb.com/title/tt9130674/,movie,6.3,85,2018,Drama,47,2018-10-06,Tashi Gyeltshen
+64,tt8137722,2018-11-20,2018-11-20,Warsaw 2018,I douleia tis,https://www.imdb.com/title/tt8137722/,movie,7.0,89,2018,Drama,174,2018-09-07,Nikos Labôt
+65,tt7231342,2018-11-20,2018-11-20,Valladolid 2018,La chute de l'empire américain,https://www.imdb.com/title/tt7231342/,movie,7.0,127,2018,"Comedy, Crime",1575,2018-06-19,Denys Arcand
+66,tt9228680,2018-11-20,2018-11-20,Leipzig 2018,Avevo un sogno,https://www.imdb.com/title/tt9228680/,movie,,84,2018,Documentary,,2018-11-01,Claudia Tosi
+67,tt5698834,2018-11-20,2018-11-20,Riga 2018,Jimmie,https://www.imdb.com/title/tt5698834/,movie,6.0,91,2018,Drama,236,2018-01-24,Jesper Ganslandt
+68,tt6922040,2018-11-20,2018-11-20,Chemnitz 2018,Meerkat Maantuig,https://www.imdb.com/title/tt6922040/,movie,7.9,96,2017,"Drama, Fantasy",45,2017-08-24,Hanneke Schutte
+69,tt5776858,2018-10-21,2018-10-21,FIPRESCI Best movie of the year 2018,Phantom Thread,https://www.imdb.com/title/tt5776858/,movie,7.5,130,2017,"Drama, Romance",92188,2017-11-24,Paul Thomas Anderson
+70,tt4827558,2018-10-21,2018-10-21,Toronto 2018,High Life,https://www.imdb.com/title/tt4827558/,movie,5.9,113,2018,"Adventure, Drama, Mystery, Sci-Fi",18567,2018-09-09,Claire Denis
+71,tt6043142,2018-10-21,2018-10-21,Toronto 2018,Skin,https://www.imdb.com/title/tt6043142/,movie,7.4,118,2018,"Biography, Crime, Drama",12424,2018-09-08,Guy Nattiv
+72,tt7636672,2018-10-21,2018-10-21,St Petersburg 2018,Float Like a Butterfly,https://www.imdb.com/title/tt7636672/,movie,6.5,101,2018,Drama,78,2018-09-07,Carmel Winters
+73,tt3892172,2018-10-21,2018-10-21,Miskolc 2018,Leave No Trace,https://www.imdb.com/title/tt3892172/,movie,7.2,109,2018,Drama,38701,2018-01-20,Debra Granik
+74,tt6505968,2018-09-20,2018-09-20,Haugesund 2018,Armomurhaaja,https://www.imdb.com/title/tt6505968/,movie,6.8,85,2017,"Drama, Horror, Thriller",1442,2017-09-07,Teemu Nikki
+75,tt8988660,2018-09-20,2018-09-20,Venice 2018,Still Recording,https://www.imdb.com/title/tt8988660/,movie,7.4,120,2018,"Documentary, War",123,2018-09-04,"Saeed Al Batal, Ghiath Ayoub"
+76,tt5855772,2018-09-20,2018-09-20,Venice 2018,Napszállta,https://www.imdb.com/title/tt5855772/,movie,6.4,142,2018,"Drama, Mystery",2706,2018-09-03,László Nemes
+77,tt7176472,2018-08-21,2018-08-21,Jerusalem 2018,Vierges,https://www.imdb.com/title/tt7176472/,movie,6.2,90,2018,Drama,135,2018-04-19,Keren Ben Rafael
+78,tt8307082,2018-08-21,2018-08-21,Jerusalem 2018,Sauvage,https://www.imdb.com/title/tt8307082/,movie,7.0,99,2018,Drama,2737,2018-05-10,Camille Vidal-Naquet
+79,tt8800572,2018-08-21,2018-08-21,Odessa 2018,Delta,https://www.imdb.com/title/tt8800572/,movie,7.2,82,2017,Documentary,11,2017-10-30,Oleksandr Techynskyi
+80,tt6386748,2018-08-21,2018-08-21,Motovun 2018,Pájaros de verano,https://www.imdb.com/title/tt6386748/,movie,7.6,125,2018,"Crime, Drama",6869,2018-05-09,"Cristina Gallego, Ciro Guerra"
+81,tt7336410,2018-08-21,2018-08-21,Astana 2018,Sulayman too,https://www.imdb.com/title/tt7336410/,movie,6.7,101,2017,Drama,171,2017-09-08,Elizaveta Stishova
+82,tt5638952,2018-08-21,2018-08-21,Yerevan 2018,Dede,https://www.imdb.com/title/tt5638952/,movie,7.2,97,2017,Drama,806,2017-07-02,Mariam Khatchvani
+83,tt6467968,2018-08-21,2018-08-21,Pristina 2018,Posoki,https://www.imdb.com/title/tt6467968/,movie,7.6,103,2017,Drama,1374,2017-05-26,Stephan Komandarev
+84,tt7776430,2018-07-20,2018-07-20,Munich 2018,Alles ist gut,https://www.imdb.com/title/tt7776430/,movie,6.5,90,2018,Drama,813,2018-07-01,Eva Trobisch
+85,tt8506788,2018-07-20,2018-07-20,Karlovy Vary 2018,Sueño Florianópolis,https://www.imdb.com/title/tt8506788/,movie,6.5,106,2018,"Comedy, Drama, Romance",201,2018-07-04,Ana Katz
+86,tt8522844,2018-06-20,2018-06-20,Tel Aviv 2018,In the Desert - A Documentary Diptych: Omar's Dream,https://www.imdb.com/title/tt8522844/,movie,6.1,112,2018,Documentary,7,2018-05-22,Avner Faingulernt
+87,tt8522952,2018-06-20,2018-06-20,Tel Aviv 2018,In the Desert - A Documentary Diptych: Avidan's Dream,https://www.imdb.com/title/tt8522952/,movie,5.7,98,2018,Documentary,6,2018-05-22,Avner Faingulernt
+88,tt7519174,2018-06-20,2018-06-20,Krakow 2018,Kinder des Kalifats,https://www.imdb.com/title/tt7519174/,movie,7.3,99,2017,"Documentary, War",1724,2017-11-15,Talal Derki
+89,tt7233012,2018-06-20,2018-06-20,Cluj-Napoca 2018,Life Guidance,https://www.imdb.com/title/tt7233012/,movie,5.6,101,2017,Sci-Fi,147,2017-09-08,Ruth Mader
+90,tt7282468,2018-05-21,2018-05-21,Cannes 2018,Beoning,https://www.imdb.com/title/tt7282468/,movie,7.6,148,2018,"Drama, Mystery",30940,2018-05-16,Chang-dong Lee
+91,tt8254556,2018-05-21,2018-05-21,Cannes 2018,Girl,https://www.imdb.com/title/tt8254556/,movie,7.2,105,2018,Drama,9066,2018-05-12,Lukas Dhont
+92,tt8274146,2018-05-21,2018-05-21,Cannes 2018,Egy nap,https://www.imdb.com/title/tt8274146/,movie,7.2,99,2018,Drama,663,2018-05-09,Zsófia Szilágyi
+93,tt7240516,2018-05-20,2018-05-20,Wiesbaden 2018,A Woman Captured,https://www.imdb.com/title/tt7240516/,movie,7.8,89,2017,Documentary,351,2017-11-19,Bernadett Tuza-Ritter
+94,tt5495726,2018-05-20,2018-05-20,Wiesbaden 2018,Bába z ledu,https://www.imdb.com/title/tt5495726/,movie,6.8,106,2017,"Comedy, Drama, Romance",493,2017-02-23,Bohdan Sláma
+95,tt7148254,2018-05-20,2018-05-20,Lecce 2018,Sashishi deda,https://www.imdb.com/title/tt7148254/,movie,6.9,107,2017,Drama,438,2017-08-03,Ana Urushadze
+96,tt6278192,2018-05-20,2018-05-20,Istanbul 2018,Körfez,https://www.imdb.com/title/tt6278192/,movie,5.6,110,2017,Drama,422,2017-09-04,Emre Yeksan
+97,tt6217608,2018-05-20,2018-05-20,Istanbul 2018,The Rider,https://www.imdb.com/title/tt6217608/,movie,7.4,104,2017,"Drama, Western",11132,2017-05-20,Chloé Zhao
+98,tt7955712,2018-05-20,2018-05-20,Hong Kong 2018,Rou qing shi,https://www.imdb.com/title/tt7955712/,movie,6.1,117,2018,Drama,103,2018-02-16,Yang Mingming
+99,tt8400446,2018-05-20,2018-05-20,Buenos Aires 2018,Still Burn,https://www.imdb.com/title/tt8400446/,movie,8.0,77,2018,Documentary,6,2018-04-30,Mauricio Alfredo Ovando
+100,tt5903232,2018-04-23,2018-04-23,Toulouse 2018,Temporada de Caza,https://www.imdb.com/title/tt5903232/,movie,6.3,105,2017,Drama,321,2017-09-02,Natalia Garagiola
+101,tt7341660,2018-04-23,2018-04-23,Thessaloniki 2018,Olegs krig,https://www.imdb.com/title/tt7341660/,movie,7.8,91,2017,"Documentary, War",354,2017-11-19,Simon Lereng Wilmont
+102,tt7218812,2018-04-22,2018-04-22,Zagreb 2018,Druga strana svega,https://www.imdb.com/title/tt7218812/,movie,8.2,100,2017,"Documentary, Biography",892,2017-09-14,Mila Turajlic
+103,tt7205208,2018-04-22,2018-04-22,Tromsø 2018,Jia nian hua,https://www.imdb.com/title/tt7205208/,movie,7.2,107,2017,Drama,1678,2017-09-07,Vivian Qu
+104,tt6776106,2018-04-22,2018-04-22,Gothenburg 2018,Andið eðlilega,https://www.imdb.com/title/tt6776106/,movie,6.8,95,2018,Drama,1569,2018-01-23,Isold Uggadottir
+105,tt6194984,2018-04-03,2018-04-03,Sofia 2018,Vezdesushtiyat,https://www.imdb.com/title/tt6194984/,movie,7.7,120,2017,Drama,889,2017-10-13,Ilian Djevelekov
+106,tt7875464,2018-02-25,2018-04-23,"Berlin 2018
+Cartagena 2018",Las herederas,https://www.imdb.com/title/tt7875464/,movie,6.8,98,2018,Drama,2178,2018-02-16,Marcelo Martinessi
+107,tt7476946,2018-02-25,2018-02-25,Berlin 2018,Ribâzu ejji,https://www.imdb.com/title/tt7476946/,movie,6.2,118,2018,Crime,499,2018-02-15,Isao Yukisada
+108,tt8020896,2018-02-25,2018-02-25,Berlin 2018,Da xiang xi di er zuo,https://www.imdb.com/title/tt8020896/,movie,7.8,230,2018,Drama,2874,2018-02-16,Bo Hu
+109,tt7838150,2018-02-04,2018-02-04,Rotterdam 2018,Balekempa,https://www.imdb.com/title/tt7838150/,movie,6.9,108,2018,Drama,20,2018-01-26,Eregowda
+110,tt5097746,2018-01-20,2018-01-20,Dhaka 2018,Sohagi's Ornament,https://www.imdb.com/title/tt5097746/,movie,,92,2015,"Drama, Family, Romance",,,Lata Ahmed
+111,tt5980798,2018-01-20,2018-01-20,Palm Springs 2018,Félicité,https://www.imdb.com/title/tt5980798/,movie,6.4,129,2017,"Drama, Music",796,2017-02-11,Alain Gomis
+112,tt3409848,2017-12-30,2017-12-30,Havana 2017,Zama,https://www.imdb.com/title/tt3409848/,movie,6.7,115,2017,Drama,4462,2017-08-31,Lucrecia Martel
+113,tt6484982,2017-12-30,2017-12-30,Kerala 2017,Newton,https://www.imdb.com/title/tt6484982/,movie,7.7,106,2017,Drama,13787,2017-02-10,Amit Masurkar
+114,tt5933698,2017-12-30,2017-12-30,Kerala 2017,Aedan: Garden of Desire,https://www.imdb.com/title/tt5933698/,movie,6.3,130,2018,"Drama, Fantasy, Mystery, Romance",10,2018-02-08,Sanju Surendran
+115,tt4686844,2017-12-30,2017-12-30,Torino 2017,The Death of Stalin,https://www.imdb.com/title/tt4686844/,movie,7.2,107,2017,"Comedy, Drama, History",69127,2017-09-08,Armando Iannucci
+116,tt7272242,2017-12-30,2017-12-30,Cairo 2017,Matar a Jesús,https://www.imdb.com/title/tt7272242/,movie,7.1,95,2017,Drama,719,2017-09-08,Laura Mora Ortega
+117,tt6665464,2017-12-26,2017-12-26,Tallinn 2017,The Marriage,https://www.imdb.com/title/tt6665464/,movie,6.9,97,2017,"Drama, Romance",390,2017-11-28,Blerta Zeqiri
+118,tt6142716,2017-12-26,2017-12-26,Mar del Plata 2017,Soldado,https://www.imdb.com/title/tt6142716/,movie,6.5,72,2017,Documentary,28,2017-02-13,Manuel Abramovich
+119,tt3288544,2017-12-26,2017-12-26,Gijon 2017,Good Luck,https://www.imdb.com/title/tt3288544/,movie,6.6,143,2017,Documentary,73,2017-08-08,Ben Russell
+120,tt7413530,2017-12-26,2017-12-26,Gijon 2017,Manuel,https://www.imdb.com/title/tt7413530/,movie,7.1,95,2017,Drama,140,2017-09-07,Dario Albertini
+121,tt6958212,2017-12-26,2017-12-26,Bydgoszscz 2017,Sweet Country,https://www.imdb.com/title/tt6958212/,movie,6.9,113,2017,"Adventure, Crime, Drama, History, Thriller, Western",6131,2017-09-06,Warwick Thornton
+122,tt6123206,2017-12-26,2017-12-26,Mannheim-Heidelberg 2017,Zer,https://www.imdb.com/title/tt6123206/,movie,6.8,113,2017,Drama,288,2017-04-11,Kazim Öz
+123,tt6207878,2017-11-29,2017-12-26,"Thessaloniki 2017
+Bratislava 2017","No Date, No Signature",https://www.imdb.com/title/tt6207878/,movie,7.2,99,2017,"Drama, Mystery, Thriller",2363,2017-02-01,Vahid Jalilvand
+124,tt5893264,2017-12-17,2017-12-17,Stockholm 2017,D'après une histoire vraie,https://www.imdb.com/title/tt5893264/,movie,5.7,100,2017,"Drama, Mystery, Thriller",4309,2017-05-27,Roman Polanski
+125,tt5239558,2017-12-14,2017-12-14,Ljubljana 2017,Muskarci ne placu,https://www.imdb.com/title/tt5239558/,movie,7.3,98,2017,Drama,583,2017-07-01,Alen Drljevic
+126,tt6079330,2017-12-03,2017-12-03,Los Cabos 2017,Ayer Maravilla Fui,https://www.imdb.com/title/tt6079330/,movie,7.4,80,2017,Sci-Fi,42,2017-10-27,Gabriel Mariño
+127,tt5774796,2017-12-03,2017-12-03,Cottbus 2017,Dzikie róze,https://www.imdb.com/title/tt5774796/,movie,6.1,90,2017,Drama,173,2017-08-05,Anna Jadowska
+128,tt4524676,2017-12-03,2017-12-14,Tunis 2017,Comboio de Sal e Açucar,https://www.imdb.com/title/tt4524676/,movie,6.9,93,2016,Adventure,84,2016-08-10,Licínio Azevedo
+129,tt7481246,2017-12-03,2017-12-03,Taipei 2017,Old Beast,https://www.imdb.com/title/tt7481246/,movie,6.6,108,2017,Drama,191,2017-07-24,Ziyang Zhou
+130,tt7548984,2017-12-03,2017-12-03,Sevilla 2017,Ternura y la tercera persona,https://www.imdb.com/title/tt7548984/,movie,,64,2017,Comedy,,2017-11-09,Pablo Llorca
+131,tt6479614,2017-12-03,2017-12-03,Minsk 2017,City of the Sun,https://www.imdb.com/title/tt6479614/,movie,7.5,104,2017,Documentary,189,2017-02-10,Rati Oneli
+132,tt7296624,2018-01-07,2018-01-07,Thessaloniki 2017,Too Much Info Clouding Over My Head,https://www.imdb.com/title/tt7296624/,movie,6.6,106,2017,"Comedy, Drama",114,2017-11-30,Vasilis Christofilakis
+133,tt5323760,2018-01-07,2018-01-07,Thessaloniki 2017,Vinterbrødre,https://www.imdb.com/title/tt5323760/,movie,6.5,94,2017,Drama,1077,2017-08-03,Hlynur Palmason
+134,tt7020700,2017-11-29,2017-11-29,Vienna 2017,Distant Constellation,https://www.imdb.com/title/tt7020700/,movie,7.1,80,2017,Documentary,138,2017-08-04,Shevaun Mizrahi
+135,tt6952604,2017-08-10,2017-11-29,"Astana 2017
+Athens 2017",Aritmiya,https://www.imdb.com/title/tt6952604/,movie,7.5,116,2017,Drama,3758,2017-06-13,Boris Khlebnikov
+136,tt5927420,2017-11-02,2017-11-02,Valladolid 2017,Daha,https://www.imdb.com/title/tt5927420/,movie,7.1,115,2017,"Crime, Drama",1666,2017-07-03,Onur Saylak
+137,tt6067428,2017-10-22,2017-10-22,Warsaw 2017,Nina,https://www.imdb.com/title/tt6067428/,movie,6.5,86,2017,Drama,63,2017-07-03,Juraj Lehotsky
+138,tt5480782,2017-10-16,2017-10-16,Rio de Janeiro 2017,As Boas Maneiras,https://www.imdb.com/title/tt5480782/,movie,6.8,135,2017,"Fantasy, Horror, Musical",1945,2017-08-06,"Juliana Rojas, Marco Dutra"
+139,tt6384376,2017-10-09,2017-10-09,Chemnitz 2017,Colours of Innocence,https://www.imdb.com/title/tt6384376/,movie,8.2,81,2016,Drama,197,2016-10-23,Manas Mukul Pal
+140,tt5891122,2017-09-30,2017-09-30,San Sebastian 2017,Life and Nothing More,https://www.imdb.com/title/tt5891122/,movie,6.4,114,2017,Drama,404,2017-09-08,Antonio Méndez Esparza
+141,tt6253688,2017-09-22,2017-09-22,St Petersburg 2017,Stranger in Paradise,https://www.imdb.com/title/tt6253688/,movie,7.6,77,2016,Documentary,277,2016-11-16,Guido Hendrikx
+142,tt6515470,2017-09-22,2017-09-22,Vladivostok 2017,Rey,https://www.imdb.com/title/tt6515470/,movie,6.8,91,2017,"Biography, Drama, Fantasy",234,2017-01-31,Niles Atallah
+143,tt5990474,2017-09-22,2017-09-22,Miskolc 2017,Columbus,https://www.imdb.com/title/tt5990474/,movie,7.2,104,2017,Drama,11790,2017-01-22,Kogonada
+144,tt5222918,2017-09-21,2017-09-21,Grand Prix 2017 - Best film of the year,Toivon tuolla puolen,https://www.imdb.com/title/tt5222918/,movie,7.2,100,2017,"Comedy, Drama",9525,2017-01-25,Aki Kaurismäki
+145,tt5451244,2017-09-18,2017-09-18,Toronto 2017,El autor,https://www.imdb.com/title/tt5451244/,movie,6.5,112,2017,"Comedy, Drama",3525,2017-09-08,Manuel Martín Cuenca
+146,tt7259986,2017-09-18,2017-09-18,Toronto 2017,Ava,https://www.imdb.com/title/tt7259986/,movie,6.7,102,2017,Drama,230,2017-09-08,Sadaf Foroughi
+147,tt7224496,2017-09-09,2017-09-09,Venice 2017,Los Versos del Olvido,https://www.imdb.com/title/tt7224496/,movie,6.5,92,2017,Drama,350,2017-09-03,Alireza Khatami
+148,tt6209282,2017-09-09,2017-09-09,Venice 2017,Ex Libris: The New York Public Library,https://www.imdb.com/title/tt6209282/,movie,7.5,197,2017,Documentary,892,2017-09-04,Frederick Wiseman
+149,tt6510954,2017-08-31,2017-08-31,Haugesund 2017,Dröm vidare,https://www.imdb.com/title/tt6510954/,movie,6.4,92,2017,Drama,350,2017-01-28,Rojda Sekersöz
+150,tt5157326,2017-08-10,2017-08-14,"Wroclaw 2017
+Motovun 2017",Western,https://www.imdb.com/title/tt5157326/,movie,7.0,121,2017,Drama,2908,2017-02-16,Valeska Grisebach
+151,tt6576482,2017-08-14,2017-08-14,Locarno 2017,Qing ting zhi yan,https://www.imdb.com/title/tt6576482/,movie,6.4,81,2017,"Documentary, Mystery",150,2017-08-10,Xu Bing
+152,tt7095054,2017-08-10,2017-08-10,Astana 2017,Pomegranate Orchard,https://www.imdb.com/title/tt7095054/,movie,8.0,90,2017,Drama,88,2017-07-01,Ilgar Najaf
+153,tt5915734,2017-08-10,2017-08-10,Odessa 2017,Riven chornoho,https://www.imdb.com/title/tt5915734/,movie,5.8,91,2017,Drama,101,2017-07-17,Valentyn Vasyanovych
+154,tt6590488,2017-08-10,2017-08-10,Jerusalem 2017,Holy Air,https://www.imdb.com/title/tt6590488/,movie,6.5,81,2017,Comedy,133,2017-04-20,Shady Srour
+155,tt5584796,2017-08-10,2017-08-10,Jerusalem 2017,Teheran Tabu,https://www.imdb.com/title/tt5584796/,movie,7.1,96,2017,"Animation, Drama",2676,2017-05-20,Ali Soozandeh
+156,tt5337986,2017-07-22,2017-07-22,Prishtina 2017,Amok,https://www.imdb.com/title/tt5337986/,movie,7.7,100,2016,"Crime, Drama",182,2016-03-31,Vardan Tozija
+157,tt6776462,2017-07-16,2017-07-16,Yerevan 2017,Lerd,https://www.imdb.com/title/tt6776462/,movie,7.2,113,2017,Drama,1255,2017-05-19,Mohammad Rasoulof
+158,tt4967220,2017-07-14,2017-07-14,Karlovy Vary 2017,Keep the Change,https://www.imdb.com/title/tt4967220/,movie,6.3,94,2017,"Comedy, Romance",675,2017-04-20,Rachel Israel
+159,tt7085058,2017-07-14,2017-07-14,Moscow 2017,Shigatsu no nagai yume,https://www.imdb.com/title/tt7085058/,movie,5.3,93,2017,Drama,38,2017-06-24,Ryûtarô Nakagawa
+160,tt5034090,2017-07-14,2017-07-14,Munich 2017,Blind & Hässlich,https://www.imdb.com/title/tt5034090/,movie,6.8,98,2017,Drama,161,2017-06-25,Tom Lass
+161,tt6260534,2017-06-26,2017-06-26,Istanbul 2017,Radio Kobanî,https://www.imdb.com/title/tt6260534/,movie,7.7,70,2016,Documentary,92,2016-11-18,Reber Dosky
+162,tt5820148,2017-06-13,2017-06-13,Cluj-Napoca 2017,Afterlov,https://www.imdb.com/title/tt5820148/,movie,6.0,94,2016,"Comedy, Drama",383,2016-08-08,Stergios Paschos
+163,tt6919908,2017-06-05,2017-06-05,Krakow 2017,Woman and the Glacier,https://www.imdb.com/title/tt6919908/,movie,7.4,56,2016,Documentary,40,2016-12-31,Audrius Stonys
+164,tt4373956,2017-06-11,2017-06-11,Ankara 2017,Tereddüt,https://www.imdb.com/title/tt4373956/,movie,6.5,105,2016,Drama,1567,2016-09-11,Yesim Ustaoglu
+165,tt4135326,2017-06-26,2017-06-26,Seattle 2017,Lane 1974,https://www.imdb.com/title/tt4135326/,movie,6.0,79,2017,"Adventure, Biography, Drama",232,2017-03-11,S.J. Chiro
+166,tt7193882,2017-09-21,2017-09-21,Tel Aviv 2017,"Sallah, Po Ze Eretz Yisrael",https://www.imdb.com/title/tt7193882/,movie,7.3,109,2017,"Documentary, History",23,2017-05-15,David Deri
+167,tt6135348,2017-05-28,2017-05-28,Cannes 2017,120 battements par minute,https://www.imdb.com/title/tt6135348/,movie,7.5,143,2017,Drama,11219,2017-05-20,Robin Campillo
+168,tt6777056,2017-05-28,2017-05-28,Cannes 2017,Tesnota,https://www.imdb.com/title/tt6777056/,movie,6.9,118,2017,Drama,1851,2017-05-24,Kantemir Balagov
+169,tt4540384,2017-05-28,2017-05-28,Cannes 2017,A Fábrica de Nada,https://www.imdb.com/title/tt4540384/,movie,7.3,177,2017,"Drama, Musical",661,2017-05-25,Pedro Pinho
+170,tt5339226,2017-05-27,2017-05-27,Schwerin 2017,Back for Good,https://www.imdb.com/title/tt5339226/,movie,6.7,96,2017,"Comedy, Drama",99,2017-02-10,Mia Spengler
+171,tt3740066,2017-05-27,2017-05-27,Krakow 2017,Pop Aye,https://www.imdb.com/title/tt3740066/,movie,6.6,104,2017,Drama,718,2017-01-19,Kirsten Tan
+172,tt5791536,2017-04-13,2017-05-27,"Wiesbaden 2017
+Lecce 2017",Chemi Bednieri Ojakhi,https://www.imdb.com/title/tt5791536/,movie,7.5,120,2017,Drama,2210,2017-01-22,"Nana Ekvtimishvili, Simon Groß"
+173,tt6456798,2017-05-20,2017-05-20,Buenos Aires 2017,Un Secreto en la Caja,https://www.imdb.com/title/tt6456798/,movie,6.9,71,2016,"Documentary, Biography",15,2016-03-16,Javier Izquierdo
+174,tt6150050,2017-05-20,2017-05-20,Hong Kong 2017,Happy Bus Day,https://www.imdb.com/title/tt6150050/,movie,6.7,165,2017,"Comedy, Drama",21,2017-04-21,Seung-Won Lee
+175,tt5974388,2017-04-17,2017-04-17,Istanbul 2017,Bar Bahar,https://www.imdb.com/title/tt5974388/,movie,7.3,103,2016,Drama,2155,2016-09-11,Maysaloun Hamoud
+176,tt6214084,2017-04-17,2017-04-17,Istanbul 2017,Ise yarar bir sey,https://www.imdb.com/title/tt6214084/,movie,7.8,104,2017,Drama,735,2017-04-12,Pelin Esmer
+177,tt6152546,2017-04-04,2017-04-04,Toulouse 2017,Pariente,https://www.imdb.com/title/tt6152546/,movie,6.5,115,2016,"Drama, Thriller, Western",184,2016-09-02,Iván Gaona
+178,tt4922008,2017-04-04,2017-04-04,Guadalajara 2017,The Blue Years,https://www.imdb.com/title/tt4922008/,movie,7.1,100,2017,Drama,111,2017-03-12,Sofía Gómez-Córdova
+179,tt5207166,2017-03-20,2017-03-20,Sofia 2017,Rekvijem za gospodju J,https://www.imdb.com/title/tt5207166/,movie,7.2,93,2015,Drama,524,2015-04-05,Bojan Vuletic
+180,tt5690244,2017-03-20,2017-03-20,Thessaloniki 2017,Machines,https://www.imdb.com/title/tt5690244/,movie,7.3,71,2016,Documentary,449,2016-11-17,Rahul Jain
+181,tt4778424,2017-03-15,2017-03-15,Cartagena 2017,El Cristo Ciego,https://www.imdb.com/title/tt4778424/,movie,5.9,85,2016,Drama,191,2016-09-02,Christopher Murray
+182,tt7307826,2017-09-21,2017-09-21,Berlin 2017,Shu'our akbar min el hob,https://www.imdb.com/title/tt7307826/,movie,6.2,99,2017,Documentary,16,2017-02-14,Mary Jirmanus Saba
+183,tt5607714,2017-02-20,2017-02-20,Berlin 2017,Teströl és lélekröl,https://www.imdb.com/title/tt5607714/,movie,7.6,116,2017,"Drama, Fantasy, Mystery, Romance",20178,2017-02-10,Ildikó Enyedi
+184,tt6368132,2017-02-20,2017-02-20,Berlin 2017,Pendular,https://www.imdb.com/title/tt6368132/,movie,6.5,108,2017,"Drama, Romance",332,2017-02-11,Júlia Murat
+185,tt5226984,2017-02-11,2017-02-11,Gothenburg 2017,Tom of Finland,https://www.imdb.com/title/tt5226984/,movie,6.8,117,2017,"Biography, Drama",4688,2017-01-27,Dome Karukoski
+186,tt7230476,2017-09-21,2017-09-21,Rotterdam 2017,Pela Janela,https://www.imdb.com/title/tt7230476/,movie,6.6,87,2017,Drama,128,2017-01-30,Caroline Leone
+187,tt4936450,2017-02-11,2017-02-11,Tromsø 2017,Bacalaureat,https://www.imdb.com/title/tt4936450/,movie,7.3,128,2016,"Crime, Drama",10823,2016-05-19,Cristian Mungiu
+188,tt5749748,2017-02-11,2017-02-11,Dhaka 2017,Reseba,https://www.imdb.com/title/tt5749748/,movie,7.5,92,2016,"Drama, Romance, War",67,2016-09-09,Hussein Hassan Ali
+189,tt4048272,2017-02-11,2017-09-21,"Palm Springs 2017
+Cannes 2016
+
+FIPRESCI's best foreign language film - 2017
+Grand Prix 2016",Toni Erdmann,https://www.imdb.com/title/tt4048272/,movie,7.4,162,2016,"Comedy, Drama",39654,2016-05-14,Maren Ade
+190,tt4771932,2017-09-21,2017-09-21,European Discovery - Prix FIPRESCI 2016,Hymyilevä mies,https://www.imdb.com/title/tt4771932/,movie,7.2,92,2016,"Biography, Drama, Romance, Sport",3647,2016-05-19,Juho Kuosmanen
+191,tt5210324,2017-02-11,2017-02-11,Kerala 2016,Almacenados,https://www.imdb.com/title/tt5210324/,movie,7.7,93,2015,"Comedy, Drama",368,2015-10-29,Jack Zagha Kababie
+192,tt6270212,2017-05-20,2017-05-20,Kerala 2016,Manhole,https://www.imdb.com/title/tt6270212/,movie,6.9,86,2016,"Drama, History",17,2016-12-11,Vidhu Vincent
+193,tt5221584,2017-02-11,2017-02-11,Havana 2016,Aquarius,https://www.imdb.com/title/tt5221584/,movie,7.5,146,2016,Drama,15935,2016-05-17,Kleber Mendonça Filho
+194,tt5791966,2017-02-11,2017-02-11,Mar del Plata 2016,Los Globos,https://www.imdb.com/title/tt5791966/,movie,6.0,65,2016,Drama,44,2016-11-22,Mariano González
+195,tt5937296,2017-02-11,2017-02-11,Gijón 2016,Slava,https://www.imdb.com/title/tt5937296/,movie,7.6,101,2016,Drama,1717,2016-08-04,"Kristina Grozeva, Petar Valchanov"
+196,tt4943706,2017-02-11,2017-02-11,Torino 2016,Les derniers Parisiens,https://www.imdb.com/title/tt4943706/,movie,5.8,105,2016,Drama,345,2016-10-28,"Hamé Bourokba, Ekoué Labitey"
+197,tt5132448,2017-02-11,2017-02-11,Athens 2016,Skhvisi sakhli,https://www.imdb.com/title/tt5132448/,movie,6.4,103,2016,Drama,198,2016-07-05,Russudan Glurjidze
+198,tt5465642,2017-02-11,2017-02-11,Cairo 2016,Anna's Life,https://www.imdb.com/title/tt5465642/,movie,6.9,108,2016,Drama,69,2016-02-02,Nino Basilia
+199,tt4257614,2017-02-11,2017-02-11,Tallinn 2016,Suave El Aliento,https://www.imdb.com/title/tt4257614/,movie,7.0,90,2015,Drama,23,2015-10-31,Augusto Sandino
+200,tt2321405,2017-02-11,2017-02-11,Bratislava 2016,Ma vie de Courgette,https://www.imdb.com/title/tt2321405/,movie,7.8,66,2016,"Animation, Comedy, Drama",18208,2016-05-15,Claude Barras
+201,tt3721936,2017-02-11,2017-02-11,Stockholm 2016,American Honey,https://www.imdb.com/title/tt3721936/,movie,7.0,163,2016,"Adventure, Drama, Romance",33421,2016-05-15,Andrea Arnold
+202,tt3666024,2017-02-11,2017-02-11,Ljubljana 2016,La tortue rouge,https://www.imdb.com/title/tt3666024/,movie,7.5,80,2016,"Animation, Fantasy",26707,2016-05-18,Michael Dudok de Wit
+203,tt5255874,2017-02-11,2017-02-11,Los Cabos 2016,Tamara y la Catarina,https://www.imdb.com/title/tt5255874/,movie,7.3,107,2016,Drama,47,2016-09-09,Lucía Carreras
+204,tt3037164,2017-02-11,2017-02-11,Cottbus 2016,Tiszta szívvel,https://www.imdb.com/title/tt3037164/,movie,7.1,103,2016,"Action, Comedy, Drama",2955,2016-04-28,Attila Till
+205,tt6118258,2017-02-11,2017-02-11,Taipei 2016,Ba yue,https://www.imdb.com/title/tt6118258/,movie,6.9,106,2016,Drama,308,2016-07-23,Dalei Zhang
+206,tt4733228,2017-02-11,2017-02-11,Mannheim-Heidelberg 2016,To Keep the Light,https://www.imdb.com/title/tt4733228/,movie,5.6,88,2016,"Drama, History",164,2016-07-15,Erica Fae
+207,tt4291600,2017-02-11,2017-02-11,"Thessaloniki 2016
+San Sebastian 2016",Lady Macbeth,https://www.imdb.com/title/tt4291600/,movie,6.8,89,2016,"Drama, Romance",16155,2016-09-10,William Oldroyd
+208,tt6151714,2017-05-20,2017-05-20,Thessaloniki 2016,Plateia Amerikis,https://www.imdb.com/title/tt6151714/,movie,6.5,86,2016,Drama,773,2016-10-11,Yannis Sakaridis
+209,tt5605834,2017-02-11,2017-02-11,Sevilla 2016,Los objetos amorosos,https://www.imdb.com/title/tt5605834/,movie,7.0,115,2016,Drama,45,2016-11-08,Adrian Silvestre
+210,tt6072388,2017-02-11,2017-02-11,Tirana 2016,Home Sweet Home,https://www.imdb.com/title/tt6072388/,movie,6.1,90,2016,Drama,22,2016-07-07,Faton Bajraktari
+211,tt5938418,2017-02-11,2017-02-11,Leipzig 2016,Une jeune fille de 90 ans,https://www.imdb.com/title/tt5938418/,movie,7.5,85,2016,Documentary,36,2016-08-04,"Valeria Bruni Tedeschi, Yann Coridian"
+212,tt4730986,2017-02-11,2017-02-11,Carthage 2016,Divines,https://www.imdb.com/title/tt4730986/,movie,7.4,105,2016,"Crime, Drama",7330,2016-05-19,Houda Benyamina
+213,tt4613254,2017-02-11,2017-02-11,Kyiv 2016,Hjartasteinn,https://www.imdb.com/title/tt4613254/,movie,7.4,129,2016,"Drama, Romance",3833,2016-09-01,Guðmundur Arnar Guðmundsson
+214,tt5457244,2017-02-11,2017-02-11,"Vienna 2016
+Rotterdam 2016",Bodkin Ras,https://www.imdb.com/title/tt5457244/,movie,6.5,79,2016,"Crime, Drama, Thriller",78,2016-02-01,Kaweh Modiri
+215,tt4370784,2017-02-11,2017-02-11,Valladolid 2016,Les innocentes,https://www.imdb.com/title/tt4370784/,movie,7.3,115,2016,"Drama, History",8347,2016-01-26,Anne Fontaine
+216,tt5451054,2017-02-11,2017-02-11,Warsaw 2016,Bezbog,https://www.imdb.com/title/tt5451054/,movie,6.2,99,2016,Drama,559,2016-08-11,Ralitza Petrova
+217,tt5986738,2017-02-11,2017-02-11,Rio de Janeiro 2016,Viejo Calavera,https://www.imdb.com/title/tt5986738/,movie,6.4,80,2016,"Adventure, Drama, Mystery",143,2016-08-05,Kiro Russo
+218,tt5067984,2017-05-20,2017-05-20,Rio de Janeiro 2016,Era o Hotel Cambridge,https://www.imdb.com/title/tt5067984/,movie,7.9,99,2016,Drama,392,2016-10-12,Eliane Caffé
+219,tt6129128,2017-02-11,2017-02-11,Busan 2016,Bai yi,https://www.imdb.com/title/tt6129128/,movie,6.3,95,2016,Drama,191,2016-10-10,Hsien-Jer Chu
+220,tt3882074,2017-02-11,2017-02-11,Chemnitz 2016,The Eagle Huntress,https://www.imdb.com/title/tt3882074/,movie,7.5,87,2016,"Documentary, Adventure, Sport",3199,2016-01-24,Otto Bell
+221,tt4729794,2017-02-11,2017-02-11,Almaty 2016,Ranenyy angel,https://www.imdb.com/title/tt4729794/,movie,6.5,113,2016,Drama,201,2016-02-16,Emir Baigazin
+222,tt5129818,2017-02-11,2017-02-11,Saint Petersburg 2016,V luchakh solntsa,https://www.imdb.com/title/tt5129818/,movie,7.4,106,2015,Documentary,4011,2015-10-29,Vitaliy Manskiy
+223,tt5474522,2017-02-11,2017-02-11,Vladivostok 2016,Lao Shi,https://www.imdb.com/title/tt5474522/,movie,6.9,80,2016,Thriller,400,2016-02-12,Johnny Ma
+224,tt3841424,2017-02-11,2017-02-11,Miskolc 2016,Under sandet,https://www.imdb.com/title/tt3841424/,movie,7.8,100,2015,"Drama, History, War",29931,2015-09-10,Martin Zandvliet
+225,tt6039442,2017-02-11,2017-02-11,Toronto 2016,Kati Kati,https://www.imdb.com/title/tt6039442/,movie,7.0,75,2016,Drama,86,2016-09-10,Mbithi Masya
+226,tt5918090,2017-05-20,2017-05-20,Toronto 2016,Wo bu shi Pan Jin Lian,https://www.imdb.com/title/tt5918090/,movie,6.9,128,2016,"Comedy, Drama",1841,2016-09-08,Xiaogang Feng
+227,tt5078134,2017-02-11,2017-02-11,Venice 2016,Une vie,https://www.imdb.com/title/tt5078134/,movie,6.5,119,2016,Drama,857,2016-09-06,Stéphane Brizé
+228,tt6069442,2017-05-20,2017-05-20,Venice 2016,Kékszakállú,https://www.imdb.com/title/tt6069442/,movie,5.5,72,2016,Drama,270,2016-09-07,Gastón Solnicki
+229,tt4659056,2017-02-11,2017-02-11,Haugesund 2016,Der kommer en dag,https://www.imdb.com/title/tt4659056/,movie,7.8,119,2016,Drama,2883,2016-04-13,Jesper W. Nielsen
+230,tt5943690,2017-02-11,2017-02-11,Locarno 2016,Mister Universo,https://www.imdb.com/title/tt5943690/,movie,7.1,90,2016,Drama,135,2016-08-06,"Tizza Covi, Rainer Frimmel"
+231,tt3521306,2017-02-11,2017-02-11,Motovun 2016,Dobra zena,https://www.imdb.com/title/tt3521306/,movie,6.7,90,2016,Drama,578,2016-01-25,Mirjana Karanovic
+232,tt4123876,2017-02-11,2017-02-11,Wroclaw 2016,Oscuro animal,https://www.imdb.com/title/tt4123876/,movie,6.4,107,2016,Drama,198,2016-01-29,Felipe Guerrero
+233,tt4431646,2017-02-11,2017-02-11,Yerevan 2016,Imena visnje,https://www.imdb.com/title/tt4431646/,movie,6.8,90,2015,Drama,110,2015-06-21,Branko Schmidt
+234,tt4909984,2017-02-11,2017-02-11,Jerusalem 2016,Albüm,https://www.imdb.com/title/tt4909984/,movie,6.2,105,2016,Comedy,950,2016-05-12,Mehmet Can Mertoglu
+235,tt4777584,2017-05-20,2017-05-20,Jerusalem 2016,Shavua ve Yom,https://www.imdb.com/title/tt4777584/,movie,6.7,98,2016,"Comedy, Drama",790,2016-05-15,Asaph Polonsky
+236,tt5903210,2017-02-11,2017-02-11,Karlovy Vary 2016,Gleißendes Glück,https://www.imdb.com/title/tt5903210/,movie,5.8,101,2016,"Drama, Mystery",184,2016-07-02,Sven Taddicken
+237,tt5027402,2017-02-11,2017-02-11,Munich 2016,Dinky Sinky,https://www.imdb.com/title/tt5027402/,movie,6.3,90,2016,"Comedy, Drama, Family",96,2016-06-27,Mareille Klein
+238,tt6088370,2017-02-11,2017-02-11,Moscow 2016,Worst Woman,https://www.imdb.com/title/tt6088370/,movie,6.6,94,2016,Romance,66,2016-08-25,Jong-kwan Kim
+239,tt4835894,2017-02-11,2017-02-11,Seattle 2016,MiddleMan,https://www.imdb.com/title/tt4835894/,movie,5.8,104,2016,"Comedy, Crime, Drama, Thriller",740,2016-06-10,Ned Crowley
+240,tt4779518,2017-02-11,2017-02-14,Istanbul 2016,A Walnut Tree,https://www.imdb.com/title/tt4779518/,movie,7.1,92,2015,Documentary,25,2015-11-21,Ammar Aziz
+241,tt4899406,2017-02-11,2017-02-11,Cluj-Napoca 2016,Boi Neon,https://www.imdb.com/title/tt4899406/,movie,6.8,101,2015,Drama,2415,2015-09-04,Gabriel Mascaro
+242,tt5088794,2017-05-20,2017-05-20,Cannes 2016,Câini,https://www.imdb.com/title/tt5088794/,movie,7.2,104,2016,"Drama, Thriller",2407,2016-05-15,Bogdan Mirica
+243,tt4954522,2017-05-20,2017-05-20,Cannes 2016,Grave,https://www.imdb.com/title/tt4954522/,movie,7.0,99,2016,"Drama, Horror",52698,2016-05-14,Julia Ducournau
+244,tt4120176,2017-02-11,2017-02-11,Ankara 2016,L'avenir,https://www.imdb.com/title/tt4120176/,movie,7.0,102,2016,Drama,10424,2016-02-13,Mia Hansen-Løve
+245,tt4679238,2017-02-11,2017-02-11,Schwerin 2016,Thank You for Bombing,https://www.imdb.com/title/tt4679238/,movie,6.4,99,2015,"Drama, War",135,2015-09-11,Barbara Eder
+246,tt5278832,2017-02-11,2017-02-14,Krakow 2016,Córki dancingu,https://www.imdb.com/title/tt5278832/,movie,6.3,92,2015,"Comedy, Drama, Fantasy, Horror, Musical, Thriller",5457,2015-12-25,Agnieszka Smoczynska
+247,tt3813916,2017-02-11,2017-02-11,Pristina 2016,A Blast,https://www.imdb.com/title/tt3813916/,movie,5.7,83,2014,"Drama, Thriller",721,2014-08-12,Syllas Tzoumerkas
+248,tt4817256,2017-02-11,2017-02-11,Wiesbaden 2016,Czerwony pajak,https://www.imdb.com/title/tt4817256/,movie,6.0,90,2015,"Crime, Drama, Thriller",1248,2015-07-06,Marcin Koszalka
+249,tt3805294,2017-02-11,2017-02-11,Lecce 2016,Nasa svakodnevna prica,https://www.imdb.com/title/tt3805294/,movie,6.6,89,2015,"Drama, Family",135,2015-09-02,Ines Tanovic
+250,tt5233510,2017-02-11,2017-02-11,Istanbul 2016,Auf Einmal,https://www.imdb.com/title/tt5233510/,movie,6.4,112,2016,Drama,446,2016-02-12,Asli Özge
+251,tt4886070,2017-05-20,2017-05-20,"Istanbul 2016
+Warsaw 2015",Ana Yurdu,https://www.imdb.com/title/tt4886070/,movie,6.4,93,2015,Drama,480,2015-09-05,Senem Tüzen
+252,tt5112052,2017-02-11,2017-02-11,Hong Kong 2016,Maha samut lae susaan,https://www.imdb.com/title/tt5112052/,movie,6.5,105,2015,Drama,71,2015-10-28,Pimpaka Towira
+253,tt4572682,2017-02-11,2017-02-11,Toulouse 2016,Alba,https://www.imdb.com/title/tt4572682/,movie,6.8,98,2016,"Drama, Family",279,2016-02-01,Ana Cristina Barragán
+254,tt4826842,2017-02-11,2017-02-11,Fribourg 2016,Pesn pesney,https://www.imdb.com/title/tt4826842/,movie,6.8,75,2015,"Drama, Romance",69,2015-07-05,Eva Neymann
+255,tt5140848,2017-02-11,2017-02-14,Thessaloniki 2016,Det Han Gjorde,https://www.imdb.com/title/tt5140848/,movie,6.6,62,2015,"Documentary, Biography",22,2015-11-06,Jonas Poher Rasmussen
+256,tt5280652,2017-02-11,2017-02-11,Sofia 2016,Rauf,https://www.imdb.com/title/tt5280652/,movie,7.0,94,2016,"Drama, Family, Romance, War",359,2016-02-13,"Baris Kaya, Soner Caner"
+257,tt4432980,2017-02-11,2017-02-11,Guadalajara 2016,Maquinaria Panamericana,https://www.imdb.com/title/tt4432980/,movie,6.4,90,2016,"Comedy, Drama",224,2016-02-14,Joaquin del Paso
+258,tt4650738,2017-02-11,2017-02-11,Cartagena 2016,Aquí No Ha Pasado Nada,https://www.imdb.com/title/tt4650738/,movie,6.6,94,2016,Drama,547,2016-01-23,Alejandro Fernández Almendras
+259,tt4466648,2017-02-11,2017-02-11,Berlin 2016,Smrt u Sarajevu,https://www.imdb.com/title/tt4466648/,movie,6.3,85,2016,Drama,815,2016-02-15,Danis Tanovic
+260,tt5065810,2017-05-20,2017-05-20,Berlin 2016,Aloys,https://www.imdb.com/title/tt5065810/,movie,6.4,91,2016,"Drama, Fantasy, Sci-Fi",1663,2016-02-13,Tobias Nölle
+261,tt5490440,2017-05-20,2017-05-20,Berlin 2016,The Revolution Won't Be Televised,https://www.imdb.com/title/tt5490440/,movie,5.6,110,2016,Documentary,29,2016-02-17,Rama Thiaw
+262,tt3823018,2017-02-11,2017-02-11,Göteborg 2016,Þrestir,https://www.imdb.com/title/tt3823018/,movie,6.8,99,2015,Drama,1361,2015-09-11,Rúnar Rúnarsson
+263,tt2401878,2017-02-11,2017-02-11,Tromsø 2016,Anomalisa,https://www.imdb.com/title/tt2401878/,movie,7.3,90,2015,"Animation, Comedy, Drama, Romance",59992,2015-09-04,"Duke Johnson, Charlie Kaufman"
+264,tt3508840,2017-02-11,2017-09-21,"Palm Springs 2016
+
+FIPRESCI's best foreign language film 2015",Ci ke Nie Yin Niang,https://www.imdb.com/title/tt3508840/,movie,6.3,105,2015,"Action, Drama, History",14476,2015-05-21,Hsiao-Hsien Hou
+265,tt3894344,2017-02-11,2017-02-11,Dhaka 2016,Sivas,https://www.imdb.com/title/tt3894344/,movie,7.5,97,2014,Drama,1906,2014-09-03,Kaan Müjdeci
+266,tt1392190,2017-09-21,2017-09-21,Grand Prix - Best film of the year 2015,Mad Max: Fury Road,https://www.imdb.com/title/tt1392190/,movie,8.1,120,2015,"Action, Adventure, Sci-Fi, Thriller",807452,2015-05-07,George Miller
+267,tt4625196,2017-02-11,2017-02-11,Kerala 2015,Ottaal,https://www.imdb.com/title/tt4625196/,movie,8.2,81,2014,Drama,426,2014-12-01,Jayaraaj
+268,tt4920960,2017-05-20,2017-05-20,Kerala 2015,Ozhivudivasathe Kali,https://www.imdb.com/title/tt4920960/,movie,7.6,105,2015,"Crime, Drama",339,2015-10-31,Sanal Kumar Sasidharan
+269,tt3784222,2017-02-11,2017-05-27,"Havana 2015
+Cannes 2015",La patota,https://www.imdb.com/title/tt3784222/,movie,6.6,103,2015,"Drama, Thriller",1343,2015-05-15,Santiago Mitre
+270,tt4593108,2017-02-11,2017-02-11,Cottbus 2015,Zvizdan,https://www.imdb.com/title/tt4593108/,movie,7.1,123,2015,"Drama, Romance, War",3042,2015-05-17,Dalibor Matanic
+271,tt5667506,2017-02-11,2017-02-11,Thessaloniki 2015,Silent,https://www.imdb.com/title/tt5667506/,movie,7.3,,2015,Drama,30,2015-11-12,Yorgos Gkikapeppas
+272,tt4568370,2017-05-20,2017-05-20,Thessaloniki 2015,Blind Sun,https://www.imdb.com/title/tt4568370/,movie,5.5,88,2015,"Horror, Mystery",288,2015-11-11,Joyce A. Nashawati
+273,tt4863784,2017-02-11,2017-02-11,"Los Cabos 2015
+Rio de Janeiro 2015",Te prometo anarquía,https://www.imdb.com/title/tt4863784/,movie,6.4,88,2015,Drama,868,2015-08-09,Julio Hernández Cordón
+274,tt0346045,2017-02-11,2017-02-11,Sevilla 2015,Transeúntes,https://www.imdb.com/title/tt0346045/,movie,6.5,101,2015,"Comedy, Drama",35,2015-04-17,Luis Aller
+275,tt4948920,2017-02-11,2017-02-11,Tallinn 2015,Nacimiento,https://www.imdb.com/title/tt4948920/,movie,7.4,,2015,Drama,14,2015-11-17,Martín Mejía Rugeles
+276,tt4663992,2017-02-11,2017-02-11,Bratislava 2015,La tierra y la sombra,https://www.imdb.com/title/tt4663992/,movie,7.1,97,2015,Drama,1515,2015-05-18,César Augusto Acevedo
+277,tt4613272,2017-02-11,2017-02-11,Taipei 2015,Lu bian ye can,https://www.imdb.com/title/tt4613272/,movie,7.3,113,2015,"Drama, Mystery",2384,2015-08-11,Gan Bi
+278,tt2614722,2017-02-11,2017-02-11,Cairo 2015,Umrika,https://www.imdb.com/title/tt2614722/,movie,6.6,98,2015,"Comedy, Drama",1038,2015-01-24,Prashant Nair
+279,tt4357368,2017-02-11,2017-02-11,Stockholm 2015,Asphalte,https://www.imdb.com/title/tt4357368/,movie,7.1,100,2015,"Comedy, Drama",2531,2015-05-17,Samuel Benchetrit
+280,tt3828058,2017-02-11,2017-02-11,Ljubljana 2015,Rodinny film,https://www.imdb.com/title/tt3828058/,movie,6.4,95,2015,Drama,350,2015-09-21,Olmo Omerzu
+281,tt4685750,2017-02-11,2017-02-11,Gijón 2015,Much Loved,https://www.imdb.com/title/tt4685750/,movie,6.2,104,2015,Drama,1978,2015-05-19,Nabil Ayouch
+282,tt4040386,2017-02-11,2017-02-11,Torino 2015,Les loups,https://www.imdb.com/title/tt4040386/,movie,6.2,107,2014,Drama,187,2014-12-06,Sophie Deraspe
+283,tt4400174,2017-02-11,2017-02-11,Carthage 2015,À Peine J'ouvre Les Yeux,https://www.imdb.com/title/tt4400174/,movie,6.8,102,2015,"Drama, Music",1111,2015-09-05,Leyla Bouzid
+284,tt4515684,2017-02-11,2017-02-11,Athens 2015,Comoara,https://www.imdb.com/title/tt4515684/,movie,6.7,89,2015,Comedy,2416,2015-05-21,Corneliu Porumboiu
+285,tt2886632,2017-02-11,2017-02-11,Chemnitz 2015,Enklava,https://www.imdb.com/title/tt2886632/,movie,7.7,92,2015,Drama,1830,2015-03-03,Goran Radovanovic
+286,tt5169678,2017-02-11,2017-02-11,Busan 2015,Immortal,https://www.imdb.com/title/tt5169678/,movie,8.3,90,2015,Drama,57,2015-10-01,Hadi Mohaghegh
+287,tt4379826,2017-02-11,2017-02-11,Mannheim-Heidelberg 2015,Een dag in 't jaar,https://www.imdb.com/title/tt4379826/,movie,6.6,74,2015,Drama,24,2015-05-02,Margot Schaap
+288,tt3966404,2017-02-11,2017-02-11,Valladolid 2015,Mustang,https://www.imdb.com/title/tt3966404/,movie,7.6,97,2015,Drama,32005,2015-05-19,Deniz Gamze Ergüven
+289,tt3867816,2017-02-11,2017-02-11,Kyiv 2015,Pikadero,https://www.imdb.com/title/tt3867816/,movie,6.8,98,2015,"Comedy, Drama",140,2015-09-18,Ben Sharrock
+290,tt2415458,2017-02-11,2017-02-11,Leipzig 2015,The Wolfpack,https://www.imdb.com/title/tt2415458/,movie,7.0,90,2015,"Documentary, Biography",11279,2015-01-25,Crystal Moselle
+291,tt5537018,2017-02-11,2017-02-11,Vienna 2015,Coma,https://www.imdb.com/title/tt5537018/,movie,6.3,97,2015,Documentary,7,2015-04-23,Sara Fattahi
+292,tt4955012,2017-02-11,2017-05-27,Mar del Plata 2015,La luz incidente,https://www.imdb.com/title/tt4955012/,movie,6.7,95,2015,Drama,279,2015-09-16,Ariel Rotter
+293,tt2922590,2017-02-11,2017-02-11,Venice 2015,Sangue del mio sangue,https://www.imdb.com/title/tt2922590/,movie,6.1,106,2015,"Drama, History",902,2015-09-08,Marco Bellocchio
+294,tt4944924,2017-05-27,2017-05-27,Venice 2015,"Chaharshanbeh, 19 Ordibehesht",https://www.imdb.com/title/tt4944924/,movie,6.6,102,2015,Drama,563,2015-02-01,Vahid Jalilvand
+295,tt4957650,2017-02-11,2017-02-11,Vladivostok 2015,Anino sa likod ng buwan,https://www.imdb.com/title/tt4957650/,movie,7.9,120,2015,Drama,48,2015-07-09,Jun Lana
+296,tt3147312,2017-02-11,2017-02-11,Toronto 2015,Desierto,https://www.imdb.com/title/tt3147312/,movie,6.0,88,2015,"Drama, Thriller",8529,2015-09-13,Jonás Cuarón
+297,tt3777384,2017-05-27,2017-05-27,Toronto 2015,Eva Nová,https://www.imdb.com/title/tt3777384/,movie,7.1,106,2015,Drama,297,2015-09-11,Marko Skop
+298,tt4374460,2017-02-11,2017-02-11,Miskolc 2015,Aferim!,https://www.imdb.com/title/tt4374460/,movie,7.6,108,2015,"Adventure, Comedy, Drama, History, Western",5919,2015-02-11,Radu Jude
+299,tt4910056,2017-02-11,2017-02-11,Almaty 2015,Toll Bar,https://www.imdb.com/title/tt4910056/,movie,3.7,59,2015,Drama,10,2015-06-21,Zhasulan Poshanov
+300,tt4156152,2017-02-11,2017-02-11,San Sebastian 2015,El apóstata,https://www.imdb.com/title/tt4156152/,movie,5.8,80,2015,Comedy,529,2015-09-11,Federico Veiroj
+301,tt3249414,2017-02-11,2017-02-11,Saint Petersburg 2015,Above and Below,https://www.imdb.com/title/tt3249414/,movie,6.5,118,2015,"Documentary, Adventure, Drama, Family, Mystery",359,2015-01-26,Nicolas Steiner
+302,tt4266638,2017-02-11,2017-02-11,Reykjavik 2015,Krisha,https://www.imdb.com/title/tt4266638/,movie,7.2,83,2015,Drama,6328,2015-03-16,Trey Edward Shults
+303,tt3532822,2017-02-11,2017-02-11,Locarno 2015,Suite Armoricaine,https://www.imdb.com/title/tt3532822/,movie,6.6,148,2015,Drama,60,2015-08-13,Pascale Breton
+304,tt4938930,2017-02-11,2017-02-11,Montreal 2015,Misafir,https://www.imdb.com/title/tt4938930/,movie,4.4,127,2015,"Drama, Family, Mystery",63,2015-09-01,Mehmet Eryilmaz
+305,tt3733098,2017-05-27,2017-05-27,Montreal 2015,Rosa Chumbe,https://www.imdb.com/title/tt3733098/,movie,6.7,75,2015,Drama,116,2015-08-08,Jonatan Relayze
+306,tt3510112,2017-02-11,2017-02-11,Karlovy Vary 2015,Box,https://www.imdb.com/title/tt3510112/,movie,5.6,93,2015,"Drama, Romance",165,2015-07-07,Florin Serban
+307,tt4126602,2017-02-11,2017-02-11,Odessa 2015,Dybuk. Rzecz o wedrówce dusz,https://www.imdb.com/title/tt4126602/,movie,6.5,86,2015,"Documentary, History, Mystery, News",19,2015-11-19,Krzysztof Kopczynski
+308,tt3835106,2017-02-11,2017-02-11,Yerevan 2015,"Moskvich, im ser",https://www.imdb.com/title/tt3835106/,movie,7.6,86,2015,"Comedy, Drama",18,2015-06-23,Aram Shahbazyan
+309,tt3566788,2017-02-11,2017-02-11,Jerusalem 2015,Songs My Brothers Taught Me,https://www.imdb.com/title/tt3566788/,movie,6.8,98,2015,Drama,669,2015-01-27,Chloé Zhao
+310,tt4794512,2017-05-27,2017-05-27,Jerusalem 2015,Hatuna MeNiyar,https://www.imdb.com/title/tt4794512/,movie,6.2,82,2015,Drama,235,2015-07-15,Nitzan Giladi
+311,tt3089326,2017-02-11,2017-02-11,Motovun 2015,Magical Girl,https://www.imdb.com/title/tt3089326/,movie,7.3,127,2014,"Drama, Thriller",5227,2014-09-07,Carlos Vermut
+312,tt3284178,2017-02-11,2017-05-27,Wroclaw 2015,O Inquieto,https://www.imdb.com/title/tt3284178/,movie,7.0,125,2015,Drama,1906,2015-05-16,Miguel Gomes
+313,tt4692234,2017-05-27,2017-05-27,Wroclaw 2015,O Desolado,https://www.imdb.com/title/tt4692234/,movie,7.2,131,2015,Drama,1243,2015-05-18,Miguel Gomes
+314,tt4692242,2017-05-27,2017-05-27,Wroclaw 2015,O Encantado,https://www.imdb.com/title/tt4692242/,movie,6.5,125,2015,Drama,993,2015-05-20,Miguel Gomes
+315,tt3907180,2017-02-11,2017-02-11,Istanbul 2015,"Remake, Remix, Rip-Off: About Copy Culture & Turkish Pop Cinema",https://www.imdb.com/title/tt3907180/,movie,7.9,96,2014,Documentary,335,2014-08-13,Cem Kaya
+316,tt4621482,2017-02-11,2017-02-11,Moscow 2015,The Road,https://www.imdb.com/title/tt4621482/,movie,5.5,96,2015,Drama,13,2015-06-22,Rana Salem
+317,tt4319082,2017-02-11,2017-02-11,Munich 2015,Schau mich nicht so an,https://www.imdb.com/title/tt4319082/,movie,6.6,88,2015,"Drama, Family, Romance",149,2015-06-26,Uisenma Borchu
+318,tt3646344,2017-02-11,2017-02-11,Krakow 2015,Vergine giurata,https://www.imdb.com/title/tt3646344/,movie,6.4,84,2015,Drama,902,2015-02-12,Laura Bispuri
+319,tt3808342,2017-02-11,2017-02-11,Cannes 2015,Saul fia,https://www.imdb.com/title/tt3808342/,movie,7.5,107,2015,"Drama, War",40544,2015-05-15,László Nemes
+320,tt4635372,2017-05-27,2017-05-27,Cannes 2015,Masaan,https://www.imdb.com/title/tt4635372/,movie,8.1,109,2015,Drama,20037,2015-05-19,Neeraj Ghaywan
+321,tt4193216,2017-02-11,2017-02-11,Schwerin 2015,Schmitke,https://www.imdb.com/title/tt4193216/,movie,6.0,94,2014,"Comedy, Mystery",230,2014-10-05,Stepan Altrichter
+322,tt3062880,2017-02-11,2017-02-11,Ankara 2015,Gett,https://www.imdb.com/title/tt3062880/,movie,7.7,115,2014,Drama,5651,2014-05-16,"Ronit Elkabetz, Shlomi Elkabetz"
+323,tt4131188,2017-02-11,2017-02-11,Cluj-Napoca 2015,Ispytanie,https://www.imdb.com/title/tt4131188/,movie,7.2,96,2014,Drama,438,2014-09-18,Aleksandr Kott
+324,tt4089568,2017-02-11,2017-02-11,Seattle 2015,Chatty Catties,https://www.imdb.com/title/tt4089568/,movie,7.7,84,2015,Comedy,69,2015-05-30,Pablo Valencia
+325,tt2988036,2017-02-11,2017-02-11,Krakow 2015,Spirit/Will/Loss,https://www.imdb.com/title/tt2988036/,movie,7.4,75,2015,"Documentary, Biography, Drama, Music",31,2015-01-10,"Erinnisse Heuer, Patryk Rebisz"
+326,tt4093680,2017-02-11,2017-02-11,Lecce 2015,Min lilla syster,https://www.imdb.com/title/tt4093680/,movie,6.7,95,2015,Drama,1330,2015-01-24,Sanna Lenken
+327,tt3717068,2017-02-11,2017-02-12,"Buenos Aires 2015
+Vienna 2014",Court,https://www.imdb.com/title/tt3717068/,movie,7.7,116,2014,Drama,3408,2014-09-04,Chaitanya Tamhane
+328,tt3858912,2017-02-11,2017-02-11,Wiesbaden 2015,Koza,https://www.imdb.com/title/tt3858912/,movie,6.4,75,2015,Drama,191,2015-02-08,Ivan Ostrochovský
+329,tt0443465,2017-02-11,2017-02-11,Lisbon 2015,Before We Go,https://www.imdb.com/title/tt0443465/,movie,6.8,95,2014,"Comedy, Drama, Romance",47218,2014-09-12,Chris Evans
+330,tt4287610,2017-02-11,2017-02-11,Cartagena 2015,"Branco Sai, Preto Fica",https://www.imdb.com/title/tt4287610/,movie,6.5,90,2014,Drama,439,2014-10-26,Adirley Queirós
+331,tt3958072,2017-02-11,2017-02-12,"Sofia 2015
+Kyiv 2014",Urok,https://www.imdb.com/title/tt3958072/,movie,7.2,111,2014,Drama,2154,2014-09-04,"Kristina Grozeva, Petar Valchanov"
+332,tt4082370,2017-02-11,2017-02-11,Guadalajara 2015,Time Suspended,https://www.imdb.com/title/tt4082370/,movie,7.9,68,2015,"Documentary, Crime, Drama, Family",29,2015-03-07,Natalia Bruschtein
+333,tt3810248,2017-02-11,2017-02-11,Fribourg 2015,Al-Wadi,https://www.imdb.com/title/tt3810248/,movie,6.7,135,2014,Drama,50,2014-09-04,Ghassan Salhab
+334,tt5167186,2017-02-11,2017-02-11,Thessaloniki 2015,Arkadia Haire,https://www.imdb.com/title/tt5167186/,movie,7.5,90,2015,Documentary,19,2015-10-15,Filippos Koutsaftis
+335,tt4365376,2017-05-27,2017-05-27,Thessaloniki 2015,Every Face Has a Name,https://www.imdb.com/title/tt4365376/,movie,7.4,73,2015,Documentary,69,2015-01-28,Magnus Gertten
+336,tt4333136,2017-02-11,2017-02-11,Toulouse 2015,La obra del siglo,https://www.imdb.com/title/tt4333136/,movie,6.3,100,2015,Drama,110,2015-01-27,Carlos Quintela
+337,tt3796754,2017-02-11,2017-02-11,Hong Kong 2015,K,https://www.imdb.com/title/tt3796754/,movie,6.1,88,2015,Drama,57,2015-02-07,"Emyr ap Richard, Darhad Erdenibulag"
+338,tt4359416,2017-02-11,2017-02-11,Berlin 2015,Taxi,https://www.imdb.com/title/tt4359416/,movie,7.3,82,2015,"Comedy, Drama",12321,2015-02-06,Jafar Panahi
+339,tt4471280,2017-05-27,2017-05-27,Berlin 2015,Paridan az ertefa kam,https://www.imdb.com/title/tt4471280/,movie,5.6,88,2015,Drama,161,2015-02-06,Hamed Rajabi
+340,tt4075804,2017-05-27,2017-05-27,Berlin 2015,Il gesto delle mani,https://www.imdb.com/title/tt4075804/,movie,7.9,77,2015,Documentary,61,2015-02-28,Francesco Clerici
+341,tt4322004,2017-02-11,2017-02-11,Rotterdam 2015,Battles,https://www.imdb.com/title/tt4322004/,movie,5.9,90,2015,"Documentary, History, War",62,2015-01-27,Isabelle Tollenaere
+342,tt2802154,2017-02-11,2017-02-11,Palm Springs 2015,Leviafan,https://www.imdb.com/title/tt2802154/,movie,7.6,140,2014,"Crime, Drama",44772,2014-05-23,Andrey Zvyagintsev
+343,tt3053694,2017-02-11,2017-02-11,Tromsø 2015,P'tit Quinquin,https://www.imdb.com/title/tt3053694/,tvMiniSeries,7.4,206,2014,"Comedy, Crime, Mystery",2310,2014-05-21,
+344,tt2719660,2017-02-11,2017-02-11,Göteborg 2015,I dine hænder,https://www.imdb.com/title/tt2719660/,movie,6.6,88,2015,Drama,230,2015-01-25,Samanou Acheche Sahlstrøm
+345,tt1065073,2017-09-21,2017-09-21,Grand Prix - Best film of the year 2014,Boyhood,https://www.imdb.com/title/tt1065073/,movie,7.9,165,2014,Drama,320919,2014-01-19,Richard Linklater
+346,tt3460152,2017-02-12,2017-02-12,"Havana 2014
+Cartagena 2014",Matar a un hombre,https://www.imdb.com/title/tt3460152/,movie,6.4,82,2014,"Crime, Drama, Thriller",1385,2014-01-17,Alejandro Fernández Almendras
+347,tt3737442,2017-02-12,2017-02-12,Kerala 2014,Oraalppokkam,https://www.imdb.com/title/tt3737442/,movie,7.7,99,2014,"Drama, Fantasy, Mystery",87,2014-12-14,Sanal Kumar Sasidharan
+348,tt2914060,2017-05-27,2017-05-27,Kerala 2014,C'est eux les chiens...,https://www.imdb.com/title/tt2914060/,movie,5.7,85,2013,Drama,112,2013-05-19,Hicham Lasri
+349,tt3826834,2017-02-12,2017-02-12,Cottbus 2014,Klass korrektsii,https://www.imdb.com/title/tt3826834/,movie,6.9,98,2014,Drama,913,2014-07-09,Ivan I. Tverdovskiy
+350,tt3344922,2017-02-12,2017-02-12,Stockholm 2014,Hungry Hearts,https://www.imdb.com/title/tt3344922/,movie,6.4,109,2014,"Drama, Romance, Thriller",3927,2014-08-31,Saverio Costanzo
+351,tt2560440,2017-02-12,2017-02-12,Carthage 2014,Før snøen faller,https://www.imdb.com/title/tt2560440/,movie,7.1,96,2013,Drama,501,2013-01-14,Hisham Zaman
+352,tt3906650,2017-02-12,2017-02-12,Mar del Plata 2014,Sinfonia da Necrópole,https://www.imdb.com/title/tt3906650/,movie,6.9,85,2014,"Comedy, Musical, Romance",210,2014-07-23,Juliana Rojas
+353,tt3977898,2017-02-12,2017-02-12,Mannheim-Heidelberg 2014,Nabat,https://www.imdb.com/title/tt3977898/,movie,7.1,105,2014,"Drama, War",180,2014-08-29,Elchin Musaoglu
+354,tt3660370,2017-02-12,2017-02-12,Gijón 2014,Party Girl,https://www.imdb.com/title/tt3660370/,movie,6.4,96,2014,Drama,1156,2014-05-15,"Claire Burger, Marie Amachoukeli-Barsacq, Samuel Theis"
+355,tt2656588,2017-02-12,2017-02-12,Ljubljana 2014,Buzzard,https://www.imdb.com/title/tt2656588/,movie,6.4,97,2014,"Comedy, Drama, Horror",1707,2014-03-08,Joel Potrykus
+356,tt3509796,2017-02-12,2017-02-12,Tallinn 2014,Emrouz,https://www.imdb.com/title/tt3509796/,movie,6.1,88,2014,Drama,644,2014-02-07,Reza Mirkarimi
+357,tt2798170,2017-02-12,2017-02-12,Bratislava 2014,Jeg er din,https://www.imdb.com/title/tt2798170/,movie,6.2,100,2013,Drama,632,2013-08-16,Iram Haq
+358,tt3454612,2017-02-12,2017-02-12,Torino 2014,Mercuriales,https://www.imdb.com/title/tt3454612/,movie,6.2,108,2014,Drama,325,2014-05-21,Virgil Vernier
+359,tt2247566,2017-02-12,2017-02-12,Taipei 2014,Kano,https://www.imdb.com/title/tt2247566/,movie,7.8,185,2014,"Biography, Drama, History, Sport",1995,2014-02-27,Chih-Hsiang Ma
+360,tt3958098,2017-02-12,2017-02-12,Cairo 2014,Dólares de arena,https://www.imdb.com/title/tt3958098/,movie,5.9,84,2014,Drama,389,2014-09-30,"Laura Amelia Guzmán, Israel Cárdenas"
+361,tt4108894,2017-02-12,2017-02-12,Busan 2014,Dar donya ye to saat chand ast?,https://www.imdb.com/title/tt4108894/,movie,7.2,101,2014,"Drama, Romance",1542,2014-02-02,Safi Yazdanian
+362,tt3858500,2017-02-12,2017-02-12,Warsaw 2014,Ce lume minunata,https://www.imdb.com/title/tt3858500/,movie,8.4,73,2014,"Drama, Thriller",185,2014-04-04,Anatol Durbalã
+363,tt3595966,2017-02-12,2017-02-12,Chemnitz 2014,Conducta,https://www.imdb.com/title/tt3595966/,movie,7.6,108,2014,Drama,1213,2014-01-31,Ernesto Daranas
+364,tt3086442,2017-02-12,2017-02-12,Thessaloniki 2014,Ich seh ich seh,https://www.imdb.com/title/tt3086442/,movie,6.7,99,2014,"Horror, Mystery, Thriller",37909,2014-08-30,"Severin Fiala, Veronika Franz"
+365,tt3779814,2017-05-27,2017-05-27,Thessaloniki 2014,Norvigia,https://www.imdb.com/title/tt3779814/,movie,5.6,73,2014,"Comedy, Drama, Fantasy, Horror",466,2014-07-07,Yannis Veslemes
+366,tt1863192,2017-02-12,2017-02-12,Athens 2014,Simindis kundzuli,https://www.imdb.com/title/tt1863192/,movie,7.6,100,2014,"Drama, War",3678,2014-07-09,George Ovashvili
+367,tt3685888,2017-02-12,2017-02-12,Leipzig 2014,Spartacus & Cassandra,https://www.imdb.com/title/tt3685888/,movie,7.2,80,2014,Documentary,101,2014-05-17,Ioanis Nuguet
+368,tt4346118,2017-02-12,2017-02-12,Abu Dhabi 2014,Um Ghayeb: Mother of the Unborn,https://www.imdb.com/title/tt4346118/,movie,7.6,84,2014,"Documentary, Drama",19,2014-10-28,Nadine Salib
+369,tt3170902,2017-05-27,2017-05-27,Abu Dhabi 2014,Theeb,https://www.imdb.com/title/tt3170902/,movie,7.2,100,2014,"Adventure, Drama, Thriller",9258,2014-09-04,Naji Abu Nowar
+370,tt3465916,2017-02-12,2017-02-12,Valladolid 2014,Kreuzweg,https://www.imdb.com/title/tt3465916/,movie,7.4,110,2014,Drama,3893,2014-02-09,Dietrich Brüggemann
+371,tt3505712,2017-02-12,2017-02-12,Toronto 2014,Time Out of Mind,https://www.imdb.com/title/tt3505712/,movie,5.7,120,2014,Drama,3652,2014-09-07,Oren Moverman
+372,tt3146294,2017-05-27,2017-05-27,Toronto 2014,Qu'Allah bénisse la France!,https://www.imdb.com/title/tt3146294/,movie,5.6,95,2014,Drama,238,2014-08-25,Abd Al Malik
+373,tt3612616,2017-02-12,2017-02-12,Miskolc 2014,Mommy,https://www.imdb.com/title/tt3612616/,movie,8.1,139,2014,Drama,44746,2014-05-22,Xavier Dolan
+374,tt3174768,2017-05-27,2017-05-27,Vladivostok 2014,La vida después,https://www.imdb.com/title/tt3174768/,movie,6.0,90,2013,Drama,72,2013-03-31,David Pablos
+375,tt3534636,2017-02-12,2017-02-12,Almaty 2014,Priklyuchenie,https://www.imdb.com/title/tt3534636/,movie,6.1,78,2014,"Drama, Romance",22,2014-07-06,Nariman Turebaev
+376,tt2764784,2017-02-12,2017-02-12,San Sebastian 2014,Phoenix,https://www.imdb.com/title/tt2764784/,movie,7.3,98,2014,"Drama, History, Music, Romance",15189,2014-09-05,Christian Petzold
+377,tt3549876,2017-02-12,2017-02-12,Saint Petersburg 2014,Bugarach,https://www.imdb.com/title/tt3549876/,movie,6.9,91,2014,"Documentary, Drama",28,2014-04-26,"Ventura Durall, Salvador Sunyer, Sergi Cameron"
+378,tt3421636,2017-02-12,2017-02-12,Perm 2014,Abu Haraz,https://www.imdb.com/title/tt3421636/,movie,6.2,72,2013,Documentary,11,2013-05-15,Maciej J. Drygas
+379,tt3973598,2017-02-12,2017-02-12,Rio de Janeiro 2014,Obra,https://www.imdb.com/title/tt3973598/,movie,6.0,80,2014,Drama,164,2014-09-07,Gregorio Graziosi
+380,tt2814514,2017-02-12,2017-02-12,Reykjavik 2014,Bota,https://www.imdb.com/title/tt2814514/,movie,6.9,104,2014,Drama,150,2014-07-05,"Iris Elezi, Thomas Logoreci"
+381,tt3059656,2017-02-12,2017-02-12,Venice 2014,Nicije dete,https://www.imdb.com/title/tt3059656/,movie,7.6,95,2014,Drama,1377,2014-09-04,Vuk Rsumovic
+382,tt3521134,2017-05-27,2017-05-27,Venice 2014,The Look of Silence,https://www.imdb.com/title/tt3521134/,movie,8.3,103,2014,"Documentary, Biography, History",10551,2014-08-28,Joshua Oppenheimer
+383,tt3290440,2017-02-12,2017-02-12,Montreal 2014,Das Zimmermädchen Lynn,https://www.imdb.com/title/tt3290440/,movie,6.0,90,2014,Drama,499,2014-08-24,Ingo Haeb
+384,tt3329226,2017-05-27,2017-05-27,Montreal 2014,Los Bañistas,https://www.imdb.com/title/tt3329226/,movie,6.4,83,2014,"Comedy, Drama, Romance",132,2014-08-30,Max Zunino
+385,tt3303310,2017-02-12,2017-05-27,Locarno 2014,Mula sa kung ano ang noon,https://www.imdb.com/title/tt3303310/,movie,7.8,338,2014,Drama,478,2014-07-03,Lav Diaz
+386,tt2121382,2017-02-12,2017-02-12,Motovun 2014,Turist,https://www.imdb.com/title/tt2121382/,movie,7.3,120,2014,"Comedy, Drama",43188,2014-05-18,Ruben Östlund
+387,tt2690718,2017-02-12,2017-02-12,Wroclaw 2014,Historia del miedo,https://www.imdb.com/title/tt2690718/,movie,4.8,79,2014,"Drama, Mystery, Thriller",309,2014-02-09,Benjamín Naishtat
+388,tt1745787,2017-02-12,2017-02-12,Yerevan 2014,Plemya,https://www.imdb.com/title/tt1745787/,movie,7.0,126,2014,"Crime, Drama",9570,2014-05-21,Myroslav Slaboshpytskyi
+389,tt3175580,2017-02-12,2017-02-12,Odessa 2014,Zelena Kofta,https://www.imdb.com/title/tt3175580/,movie,6.8,104,2013,"Drama, Thriller",57,2013-09-26,Volodymyr Tykhyy
+390,tt3499048,2017-02-12,2017-02-12,Jerusalem 2014,Güeros,https://www.imdb.com/title/tt3499048/,movie,7.5,106,2014,"Comedy, Drama",3089,2014-02-07,Alonso Ruizpalacios
+391,tt3748640,2017-05-27,2017-05-27,Jerusalem 2014,Alim adumim,https://www.imdb.com/title/tt3748640/,movie,6.8,82,2014,Drama,33,2014-06-09,Bazi Gete
+392,tt2961890,2017-02-12,2017-05-27,Karlovy Vary 2014,Rocks in My Pockets,https://www.imdb.com/title/tt2961890/,movie,7.7,88,2014,"Animation, Comedy, Drama",575,2014-07-07,Signe Baumane
+393,tt2664108,2017-02-12,2017-02-12,Moscow 2014,Da i Da,https://www.imdb.com/title/tt2664108/,movie,5.0,115,2014,Drama,271,2014-03-26,Valeriya Gay Germanika
+394,tt2343617,2017-02-12,2017-02-12,Setubal 2014,Leijonasydän,https://www.imdb.com/title/tt2343617/,movie,7.0,104,2013,"Drama, Romance",3453,2013-09-06,Dome Karukoski
+395,tt2234003,2017-02-12,2017-02-12,Cluj-Napoca 2014,Calvary,https://www.imdb.com/title/tt2234003/,movie,7.4,102,2014,Drama,53187,2014-01-19,John Michael McDonagh
+396,tt2191880,2017-02-12,2017-02-12,Seattle 2014,Red Knot,https://www.imdb.com/title/tt2191880/,movie,5.2,80,2014,Drama,415,2014-03-15,Scott Cohen
+397,tt3753390,2017-02-12,2017-02-12,Krakow 2014,Borders,https://www.imdb.com/title/tt3753390/,movie,6.0,87,2013,Documentary,8,2013-11-23,Jacqueline van Vugt
+398,tt2758880,2017-02-12,2017-02-12,Cannes 2014,Kis Uykusu,https://www.imdb.com/title/tt2758880/,movie,8.2,196,2014,Drama,39044,2014-05-16,Nuri Bilge Ceylan
+399,tt2514338,2017-05-27,2017-05-27,Cannes 2014,Jauja,https://www.imdb.com/title/tt2514338/,movie,6.4,109,2014,"Drama, Fantasy, Western",3562,2014-05-18,Lisandro Alonso
+400,tt3204144,2017-05-27,2017-05-27,Cannes 2014,Les combattants,https://www.imdb.com/title/tt3204144/,movie,6.6,98,2014,"Comedy, Romance",4818,2014-05-17,Thomas Cailley
+401,tt2654428,2017-02-12,2017-02-12,Ankara 2014,Môj pes Killer,https://www.imdb.com/title/tt2654428/,movie,5.6,90,2013,Drama,301,2013-01-29,Mira Fornay
+402,tt2616810,2017-02-12,2017-02-12,Krakow 2014,Blind,https://www.imdb.com/title/tt2616810/,movie,6.9,96,2014,Drama,6682,2014-01-17,Eskil Vogt
+403,tt2183194,2017-02-12,2017-02-12,Lecce 2014,Brev til Kongen,https://www.imdb.com/title/tt2183194/,movie,6.9,75,2014,Drama,222,2014-01-14,Hisham Zaman
+404,tt3776592,2017-02-12,2017-02-12,Buenos Aires 2014,Mauro,https://www.imdb.com/title/tt3776592/,movie,6.4,80,2014,Drama,76,2014-04-05,Hernán Rosselli
+405,tt3198484,2017-02-12,2017-02-12,Wiesbaden 2014,Free Range/Ballaad maailma heakskiitmisest,https://www.imdb.com/title/tt3198484/,movie,6.1,104,2013,Drama,345,2013-09-19,Veiko Õunpuu
+406,tt2920540,2017-02-12,2017-02-12,Istanbul 2014,"20,000 Days on Earth",https://www.imdb.com/title/tt2920540/,movie,7.5,97,2014,"Documentary, Drama, Music",10349,2014-01-20,"Jane Pollard, Iain Forsyth"
+407,tt3596274,2017-05-27,2017-05-27,Istanbul 2014,He bû tune bû,https://www.imdb.com/title/tt3596274/,movie,6.8,81,2014,"Documentary, Drama, Family, Romance",35,2014-03-23,Kazim Öz
+408,tt3180640,2017-02-12,2017-02-14,"Hong Kong 2014
+Busan 2013",Sip bun,https://www.imdb.com/title/tt3180640/,movie,7.3,93,2013,Drama,114,2013-10-04,Yong-seung Lee
+409,tt3451096,2017-02-12,2017-02-12,Guadalajara 2014,Las horas contigo,https://www.imdb.com/title/tt3451096/,movie,6.8,88,2015,"Comedy, Drama",312,2015-02-05,Catalina Aguilar Mastretta
+410,tt3257072,2017-02-12,2017-02-12,Fribourg 2014,Mahi va gorbeh,https://www.imdb.com/title/tt3257072/,movie,7.3,134,2013,"Drama, Horror, Mystery",2032,2013-09-06,Shahram Mokri
+411,tt3474994,2017-02-12,2017-02-12,Toulouse 2014,Casa Grande,https://www.imdb.com/title/tt3474994/,movie,6.9,115,2014,"Drama, Romance",1845,2014-01-28,Fellipe Barbosa
+412,tt2914068,2017-02-12,2017-02-12,Thessaloniki 2014,Au bord du monde,https://www.imdb.com/title/tt2914068/,movie,7.9,98,2013,"Documentary, News",93,2013-05-21,Claus Drexel
+413,tt3670294,2017-05-27,2017-05-27,Thessaloniki 2014,Kalavryta: Anthropoi kai skies,https://www.imdb.com/title/tt3670294/,movie,7.3,112,2014,"Documentary, History, War",7,2014-03-18,Elias Giannakakis
+414,tt3118664,2017-02-12,2017-02-12,Sofia 2014,Brma paemnebi,https://www.imdb.com/title/tt3118664/,movie,7.1,99,2013,Comedy,442,2013-09-06,Levan Koguashvili
+415,tt2751390,2017-02-12,2017-02-12,Berlin 2014,"Aimer, boire et chanter",https://www.imdb.com/title/tt2751390/,movie,6.0,108,2014,"Comedy, Drama, Romance",1130,2014-02-10,Alain Resnais
+416,tt1702014,2017-05-27,2017-05-27,Berlin 2014,Hoje Eu Quero Voltar Sozinho,https://www.imdb.com/title/tt1702014/,movie,7.9,96,2014,"Drama, Romance",20869,2014-02-10,Daniel Ribeiro
+417,tt1817150,2017-05-27,2017-05-28,Berlin 2014,Forma,https://www.imdb.com/title/tt1817150/,movie,6.8,145,2013,Drama,91,2013-10-18,Ayumi Sakamoto
+418,tt1588337,2017-02-12,2017-02-23,"Gothenburg 2014
+Palm Springs 2011",Des hommes et des dieux,https://www.imdb.com/title/tt1588337/,movie,7.2,122,2010,"Drama, History",14165,2010-05-18,Xavier Beauvois
+419,tt3508872,2017-02-12,2017-02-12,Rotterdam 2014,Pleng khong kao,https://www.imdb.com/title/tt3508872/,movie,7.4,75,2014,Documentary,26,2014-01-28,Uruphong Raksasad
+420,tt2718492,2017-02-12,2017-02-12,Tromsø 2014,Ida,https://www.imdb.com/title/tt2718492/,movie,7.4,82,2013,Drama,48308,2013-08-30,Pawel Pawlikowski
+421,tt2024519,2017-02-12,2017-05-28,"Palm Springs 2014
+Setúbal 2013",The Broken Circle Breakdown,https://www.imdb.com/title/tt2024519/,movie,7.8,111,2012,"Drama, Music, Romance",37187,2012-10-10,Felix van Groeningen
+422,tt3331150,2017-05-28,2017-05-28,Dubai 2013,Yawmiyat Scheherazade,https://www.imdb.com/title/tt3331150/,movie,8.1,78,2013,"Documentary, Crime, Drama",16,2013-12-05,Zeina Daccache
+423,tt3182596,2017-05-28,2017-05-28,Dubai 2013,Fatat el masnaa,https://www.imdb.com/title/tt3182596/,movie,7.2,90,2013,"Drama, Romance",1059,2013-12-08,Mohamed Khan
+424,tt1921129,2017-02-14,2017-02-14,Havana 2013,El lugar del hijo,https://www.imdb.com/title/tt1921129/,movie,6.4,120,2013,"Drama, Family",53,2013-09-10,Manolo Nieto
+425,tt3463588,2017-02-14,2017-02-14,Kerala 2013,Kanyaka Talkies,https://www.imdb.com/title/tt3463588/,movie,6.3,115,2013,"Drama, Mystery",62,2013-10-22,K.R. Manoj
+426,tt2512186,2017-05-28,2017-05-28,Kerala 2013,Errata,https://www.imdb.com/title/tt2512186/,movie,6.3,74,2012,Drama,36,2012-11-20,Iván Vescovo
+427,tt3012826,2017-02-14,2017-02-14,Cottbus 2013,La limita de jos a cerului,https://www.imdb.com/title/tt3012826/,movie,7.1,80,2013,Drama,354,2013-07-01,Igor Cobileanski
+428,tt3074610,2017-02-14,2017-02-14,Thessaloniki 2013,Pelo malo,https://www.imdb.com/title/tt3074610/,movie,6.9,93,2013,Drama,1919,2013-09-07,Mariana Rondón
+429,tt1821549,2017-02-14,2017-02-14,Stockholm 2013,Nebraska,https://www.imdb.com/title/tt1821549/,movie,7.7,115,2013,"Adventure, Comedy, Drama",106998,2013-05-23,Alexander Payne
+430,tt1971514,2017-02-14,2017-02-14,Ljubljana 2013,Salvo,https://www.imdb.com/title/tt1971514/,movie,6.0,110,2013,"Crime, Drama, Romance",1078,2013-05-16,"Fabio Grassadonia, Antonio Piazza"
+431,tt3187076,2017-02-14,2017-02-14,"Bratislava 2013
+Athens 2013",Razredni sovraznik,https://www.imdb.com/title/tt3187076/,movie,7.6,112,2013,Drama,1971,2013-08-30,Rok Bicek
+432,tt6798784,2017-05-28,2017-05-28,Sevilla 2013,The Sad Smell of Flesh: El Triste Olor De La Carne,https://www.imdb.com/title/tt6798784/,movie,,,2013,Drama,,2013-07-31,Cristóbal Arteaga
+433,tt2865688,2017-02-14,2017-02-14,Gijón 2013,Henri,https://www.imdb.com/title/tt2865688/,movie,6.1,103,2013,Drama,239,2013-05-24,Yolande Moreau
+434,tt2641152,2017-02-14,2017-02-14,Mar del Plata 2013,Penumbra,https://www.imdb.com/title/tt2641152/,movie,5.2,89,2013,Drama,24,2013-01-27,Eduardo Villanueva
+435,tt3074732,2017-02-14,2017-02-14,Tallinn 2013,Hross í oss,https://www.imdb.com/title/tt3074732/,movie,6.8,81,2013,"Comedy, Drama, Romance",2827,2013-08-28,Benedikt Erlingsson
+436,tt2860720,2017-02-14,2017-02-14,Torino 2013,Le démantèlement,https://www.imdb.com/title/tt2860720/,movie,7.0,111,2013,Drama,655,2013-05-17,Sébastien Pilote
+437,tt2085986,2017-02-14,2017-02-14,Perm 2013,The Reluctant Revolutionary,https://www.imdb.com/title/tt2085986/,movie,7.5,70,2012,"Documentary, Drama",130,2012-02-10,Sean McAllister
+438,tt2388819,2017-02-14,2017-02-14,Warsaw 2013,Yozgat Blues,https://www.imdb.com/title/tt2388819/,movie,6.8,93,2013,"Comedy, Drama, Music",2338,2013-04-11,Mahmut Fazil Coskun
+439,tt2248765,2017-02-14,2017-02-14,Chemnitz 2013,El Manzano Azul,https://www.imdb.com/title/tt2248765/,movie,6.6,92,2012,Family,160,2012-03-17,Olegario Barrera
+440,tt2718462,2017-02-14,2017-02-14,Valladolid 2013,La reconstrucción,https://www.imdb.com/title/tt2718462/,movie,6.6,90,2013,Drama,367,2013-03-28,Juan Taratuto
+441,tt2901736,2017-02-14,2017-02-14,"Kiev 2013
+Miskolc 2013",Ilo Ilo,https://www.imdb.com/title/tt2901736/,movie,7.3,99,2013,Drama,3888,2013-05-19,Anthony Chen
+442,tt3177612,2017-02-14,2017-02-14,Abu Dhabi 2013,Es-Stouh,https://www.imdb.com/title/tt3177612/,movie,5.8,92,2013,Drama,68,2013-10-19,Merzak Allouache
+443,tt5147930,2017-02-14,2017-02-14,Leipzig 2013,To Sing to Live,https://www.imdb.com/title/tt5147930/,movie,,62,2013,"Documentary, Action",,2013-12-31,Gang Zhao
+444,tt2835548,2017-02-14,2017-02-14,Vienna 2013,Grand Central,https://www.imdb.com/title/tt2835548/,movie,6.2,94,2013,"Drama, Romance",2294,2013-05-18,Rebecca Zlotowski
+445,tt3153668,2017-02-14,2017-02-14,Mannheim-Heidelberg 2013,Drift,https://www.imdb.com/title/tt3153668/,movie,7.0,83,2013,Drama,59,2013-10-06,Benny Vandendriessche
+446,tt2771800,2017-02-14,2017-02-14,Taipei 2013,Geung see,https://www.imdb.com/title/tt2771800/,movie,6.3,103,2013,"Action, Horror",5187,2013-08-30,Juno Mak
+447,tt2414046,2017-02-14,2017-02-14,Toronto 2013,Los insólitos peces gato,https://www.imdb.com/title/tt2414046/,movie,7.0,89,2013,"Comedy, Drama",1571,2013-08-10,Claudia Sainte-Luce
+448,tt2258858,2017-02-14,2017-02-14,Almaty 2013,Wadjda,https://www.imdb.com/title/tt2258858/,movie,7.5,98,2012,"Comedy, Drama",16773,2012-08-31,Haifaa Al-Mansour
+449,tt2609222,2017-02-14,2017-02-14,San Sebastian 2013,Quai d'Orsay,https://www.imdb.com/title/tt2609222/,movie,6.3,113,2013,Comedy,3025,2013-08-27,Bertrand Tavernier
+450,tt2395417,2017-02-14,2017-02-14,Reykjavik 2013,Still Life,https://www.imdb.com/title/tt2395417/,movie,7.4,92,2013,Drama,6834,2013-09-03,Uberto Pasolini
+451,tt2746176,2017-02-14,2017-02-14,Rio de Janeiro 2013,Tatuagem,https://www.imdb.com/title/tt2746176/,movie,7.2,110,2013,Drama,1387,2013-11-15,Hilton Lacerda
+452,tt3102356,2017-02-14,2017-02-14,Locarno 2013,E Agora? Lembra-me,https://www.imdb.com/title/tt3102356/,movie,7.4,164,2013,"Documentary, Biography, History",367,2013-08-08,Joaquim Pinto
+453,tt2608766,2017-02-14,2017-02-14,Montreal 2013,Eve Dönüs: Sarikamis 1915,https://www.imdb.com/title/tt2608766/,movie,7.2,112,2013,"Drama, History, War",651,2013-03-08,Alphan Eseli
+454,tt2476552,2017-05-28,2017-05-28,Montreal 2013,Westen,https://www.imdb.com/title/tt2476552/,movie,6.5,102,2013,Drama,855,2013-08-25,Christian Schwochow
+455,tt2427892,2017-02-14,2017-02-14,Venice 2013,Tom à la ferme,https://www.imdb.com/title/tt2427892/,movie,7.0,102,2013,"Drama, Mystery, Thriller",14445,2013-09-02,Xavier Dolan
+456,tt2402091,2017-05-28,2017-05-28,Venice 2013,Återträffen,https://www.imdb.com/title/tt2402091/,movie,6.9,90,2013,Drama,4489,2013-09-03,Anna Odell
+457,tt2525320,2017-02-14,2017-02-14,Yerevan 2013,Akharin rouzhaye zemestan,https://www.imdb.com/title/tt2525320/,movie,7.2,52,2012,Documentary,18,2012-11-21,Mehrdad Oskouei
+458,tt3071684,2017-02-14,2017-02-14,Odessa 2013,Kredens,https://www.imdb.com/title/tt3071684/,movie,7.1,81,2013,Drama,29,2013-07-13,Valentyn Vasyanovych
+459,tt2852458,2017-02-14,2017-02-14,Wroclaw 2013,L'inconnu du lac,https://www.imdb.com/title/tt2852458/,movie,6.9,100,2013,"Drama, Romance, Thriller",11931,2013-05-17,Alain Guiraudie
+460,tt2084883,2017-02-14,2017-02-14,Motovun 2013,I kori,https://www.imdb.com/title/tt2084883/,movie,6.4,87,2012,Drama,83,2012-10-04,Thanos Anastopoulos
+461,tt2476186,2017-02-14,2017-02-14,Moscow 2013,A Memória que me Contam,https://www.imdb.com/title/tt2476186/,movie,6.1,95,2012,Drama,204,2012-10-19,Lúcia Murat
+462,tt3009444,2017-02-14,2017-02-14,Karlovy Vary 2013,Styd,https://www.imdb.com/title/tt3009444/,movie,6.1,90,2013,Drama,41,2013-07-04,Yusup Razykov
+463,tt2278871,2017-02-14,2017-09-21,"Cannes 2013
+
+Grand Prix - Best film of the year 2013",La vie d'Adèle,https://www.imdb.com/title/tt2278871/,movie,7.7,180,2013,"Drama, Romance",128097,2013-05-23,Abdellatif Kechiche
+464,tt2912144,2017-05-28,2017-05-28,Cannes 2013,Dast-neveshtehaa nemisoosand,https://www.imdb.com/title/tt2912144/,movie,7.2,125,2013,Drama,722,2013-05-24,Mohammad Rasoulof
+465,tt2359024,2017-05-28,2017-05-28,Cannes 2013,Blue Ruin,https://www.imdb.com/title/tt2359024/,movie,7.1,90,2013,"Crime, Drama, Thriller",60760,2013-05-17,Jeremy Saulnier
+466,tt2302334,2017-02-14,2017-02-14,Ankara 2013,Queen of Montreuil,https://www.imdb.com/title/tt2302334/,movie,6.4,87,2012,"Comedy, Drama",323,2012-07-07,Sólveig Anspach
+467,tt2909286,2017-02-14,2017-02-14,Krakow 2013,The Last Black Sea Pirates,https://www.imdb.com/title/tt2909286/,movie,6.7,72,2013,"Documentary, Adventure, Comedy, Drama, Fantasy",165,2013-04-23,Svetoslav Stoyanov
+468,tt2387455,2017-02-14,2017-02-14,Cluj-Napoca 2013,El limpiador,https://www.imdb.com/title/tt2387455/,movie,6.0,95,2012,"Drama, Sci-Fi",181,2012-09-24,Adrián Saba
+469,tt1650393,2017-02-14,2017-02-14,Seattle 2013,C.O.G.,https://www.imdb.com/title/tt1650393/,movie,5.6,88,2013,"Comedy, Drama",3439,2013-01-20,Kyle Patrick Alvarez
+470,tt2128452,2017-02-14,2017-02-14,Lecce 2013,Ferahfeza,https://www.imdb.com/title/tt2128452/,movie,4.7,97,2013,"Adventure, Family, Romance",104,2013-04-27,Elif Refig
+471,tt2536306,2017-02-14,2017-02-14,Wiesbaden 2013,Nebesnye zheny lugovykh mari,https://www.imdb.com/title/tt2536306/,movie,6.8,106,2012,Drama,505,2012-11-11,Aleksey Fedorchenko
+472,tt2379418,2017-02-14,2017-02-14,Buenos Aires 2013,Viola,https://www.imdb.com/title/tt2379418/,movie,6.1,65,2012,Drama,423,2012-09-09,Matías Piñeiro
+473,tt1921048,2017-02-14,2017-02-14,Krakow 2013,Ombline,https://www.imdb.com/title/tt1921048/,movie,6.8,95,2012,Drama,261,2012-07-08,Stéphane Cazes
+474,tt2169662,2017-02-14,2017-06-11,San Francisco 2013,Je suis une ville endormie,https://www.imdb.com/title/tt2169662/,tvMovie,5.9,59,2012,"Drama, Fantasy",57,2012-06-15,Sébastien Betbeder
+475,tt1663661,2017-02-14,2017-02-14,Guadalajara 2013,"Era Uma Vez Eu, Verônica",https://www.imdb.com/title/tt1663661/,movie,6.1,91,2012,Drama,560,2012-09-08,Marcelo Gomes
+476,tt1876360,2017-05-29,2017-05-29,Guadalajara 2013,La Noche de Enfrente,https://www.imdb.com/title/tt1876360/,movie,6.0,110,2012,"Comedy, Drama, Fantasy",416,2012-05-19,Raoul Ruiz
+477,tt2186665,2017-02-14,2017-02-14,Sofia 2013,O luna in Thailanda,https://www.imdb.com/title/tt2186665/,movie,5.9,84,2012,Comedy,386,2012-09-03,Paul Negoescu
+478,tt2653656,2017-02-14,2017-02-14,Toulouse 2013,La Chupilca del Diablo,https://www.imdb.com/title/tt2653656/,movie,6.3,103,2012,Drama,25,2013-03-16,Ignacio Rodríguez
+479,tt2429812,2017-02-14,2017-02-14,Thessaloniki 2013,They Glow in the Dark,https://www.imdb.com/title/tt2429812/,movie,7.3,69,2013,Documentary,27,2013-03-16,Panagiotis Evangelidis
+480,tt2431684,2017-05-29,2017-05-29,Thessaloniki 2013,Partes de una Familia,https://www.imdb.com/title/tt2431684/,movie,6.6,83,2012,"Documentary, Biography, Drama, Family",8,2012-11-30,Diego Gutiérrez
+481,tt2043616,2017-02-14,2017-02-14,Fribourg 2013,Shokuzai,https://www.imdb.com/title/tt2043616/,tvMiniSeries,7.2,270,2012,Mystery,876,2012-01-08,
+482,tt2741806,2017-05-29,2017-05-29,Hong Kong 2013,Grzeli nateli dgeebi,https://www.imdb.com/title/tt2741806/,movie,7.6,102,2013,Drama,6114,2013-02-10,"Nana Ekvtimishvili, Simon Groß"
+483,tt2018086,2017-05-29,2017-05-29,Istanbul 2013,Camille Claudel 1915,https://www.imdb.com/title/tt2018086/,movie,6.5,95,2013,"Biography, Drama",2884,2013-02-12,Bruno Dumont
+484,tt2187115,2017-02-14,2017-02-14,Berlin 2013,Pozitia copilului,https://www.imdb.com/title/tt2187115/,movie,7.4,112,2013,Drama,7350,2013-02-11,Cãlin Peter Netzer
+485,tt2336960,2017-05-29,2017-05-29,Berlin 2013,Inch'Allah,https://www.imdb.com/title/tt2336960/,movie,6.9,102,2012,Drama,2362,2012-09-08,Anaïs Barbeau-Lavalette
+486,tt2440728,2017-05-29,2017-05-29,Berlin 2013,Hélio Oiticica,https://www.imdb.com/title/tt2440728/,movie,6.7,94,2012,Documentary,26,2012-10-05,Cesar Oiticica Filho
+487,tt1826876,2017-02-14,2017-02-14,Cartagena 2013,Tanta agua,https://www.imdb.com/title/tt1826876/,movie,6.4,102,2013,"Comedy, Drama",384,2013-02-11,"Leticia Jorge, Ana Guevara"
+488,tt2219514,2017-02-14,2017-02-14,Palm Springs 2013,Lemale et ha'halal,https://www.imdb.com/title/tt2219514/,movie,6.7,90,2012,"Drama, Romance",3509,2012-07-31,Rama Burshtein
+489,tt2253939,2017-02-14,2017-02-14,Tromsø 2013,Camille redouble,https://www.imdb.com/title/tt2253939/,movie,6.3,115,2012,"Comedy, Drama, Romance",2508,2012-05-25,Noémie Lvovsky
+490,tt2713714,2017-02-14,2017-02-14,Rotterdam 2013,The Fifth Gospel of Kaspar Hauser,https://www.imdb.com/title/tt2713714/,movie,7.1,,2013,,11,2013-01-25,Alberto Gracia
+491,tt2650986,2017-02-14,2017-02-14,Gothenburg 2013,Nordvest,https://www.imdb.com/title/tt2650986/,movie,6.8,91,2013,"Action, Crime, Drama",3671,2013-01-27,Michael Noer
+492,tt1602620,2017-09-21,2017-09-21,Grand Prix - Best film of the year 2012,Amour,https://www.imdb.com/title/tt1602620/,movie,7.9,127,2012,"Drama, Romance",86808,2012-05-20,Michael Haneke
+493,tt2309220,2017-02-14,2017-02-14,Havana 2012,Los mejores temas,https://www.imdb.com/title/tt2309220/,movie,6.1,103,2012,Drama,69,2012-08-02,Nicolás Pereda
+494,tt2399515,2017-02-14,2017-02-14,Kerala 2012,El taaib,https://www.imdb.com/title/tt2399515/,movie,4.1,87,2012,"Crime, Drama",141,2012-05-19,Merzak Allouache
+495,tt2574902,2017-05-29,2017-05-29,Kerala 2012,Itharamaathram,https://www.imdb.com/title/tt2574902/,movie,6.1,98,2012,Drama,8,2012-12-10,K. Gopinathan
+496,tt1842435,2017-02-14,2017-02-14,Dubai 2012,Yema,https://www.imdb.com/title/tt1842435/,movie,6.4,90,2012,Drama,70,2012-09-05,Djamila Sahraoui
+497,tt2530112,2017-05-29,2017-05-29,Dubai 2012,Mutasalilun,https://www.imdb.com/title/tt2530112/,movie,7.3,70,2012,Documentary,20,2012-12-11,Khaled Jarrar
+498,tt1831575,2017-02-14,2017-02-14,Geneva 2012,Appropriate Adult,https://www.imdb.com/title/tt1831575/,tvMiniSeries,7.5,69,2011,"Crime, Drama, Mystery",2340,2011-09-04,
+499,tt2216240,2017-02-14,2017-02-14,Thessaloniki 2012,Kapringen,https://www.imdb.com/title/tt2216240/,movie,7.2,103,2012,"Drama, Thriller",14980,2012-09-03,Tobias Lindholm
+500,tt2182209,2017-05-29,2017-05-29,Thessaloniki 2012,To agori troei to fagito tou pouliou,https://www.imdb.com/title/tt2182209/,movie,6.2,80,2012,Drama,709,2012-07-05,Ektoras Lygizos
+501,tt1674274,2017-02-14,2017-02-14,Cottbus 2012,Kolka Cool,https://www.imdb.com/title/tt1674274/,movie,7.1,97,2011,"Comedy, Drama",676,2011-12-16,Juris Poskus
+502,tt1037223,2017-02-14,2017-02-14,Stockholm 2012,Everyday,https://www.imdb.com/title/tt1037223/,movie,6.2,106,2012,Drama,721,2012-09-03,Michael Winterbottom
+503,tt1954701,2017-02-14,2017-09-21,"Bratislava 2012
+
+European discovery 2013",Oh Boy,https://www.imdb.com/title/tt1954701/,movie,7.4,86,2012,"Comedy, Drama",14077,2012-07-03,Jan-Ole Gerster
+504,tt2239512,2017-02-14,2017-02-14,Mannheim-Heidelberg 2012,Seenelkäik,https://www.imdb.com/title/tt2239512/,movie,6.8,93,2012,"Adventure, Comedy, Thriller",1079,2012-07-01,Toomas Hussar
+505,tt2062969,2017-02-14,2017-02-14,Ljubljana 2012,L'enfant d'en haut,https://www.imdb.com/title/tt2062969/,movie,7.1,97,2012,"Crime, Drama",5984,2012-02-13,Ursula Meier
+506,tt2369047,2017-02-14,2017-02-14,Carthage 2012,Les chevaux de Dieu,https://www.imdb.com/title/tt2369047/,movie,7.1,115,2012,Drama,1539,2012-05-19,Nabil Ayouch
+507,tt1638353,2017-02-14,2017-02-14,Gijón 2012,"Syngué sabour, pierre de patience",https://www.imdb.com/title/tt1638353/,movie,7.1,102,2012,"Drama, War",4205,2012-09-09,Atiq Rahimi
+508,tt2368920,2017-02-14,2017-02-14,Taipei 2012,Ni guang fei xiang,https://www.imdb.com/title/tt2368920/,movie,7.4,110,2012,"Biography, Drama",857,2012-06-30,Jung-chi Chang
+509,tt2186873,2017-02-14,2017-02-14,Athens 2012,Lal Gece,https://www.imdb.com/title/tt2186873/,movie,6.3,92,2012,Drama,398,2012-02-11,Reis Çelik
+510,tt2191612,2017-02-14,2017-02-14,Mar del Plata 2012,La sirga,https://www.imdb.com/title/tt2191612/,movie,6.6,88,2012,Drama,610,2012-05-19,William Vega
+511,tt2416822,2017-02-14,2017-02-14,"Tallinn 2012
+Warsaw 2012",Doch,https://www.imdb.com/title/tt2416822/,movie,7.4,110,2012,Drama,377,2012-06-30,"Aleksandr Kasatkin, Natalya Nazarova"
+512,tt2088893,2017-02-14,2017-02-14,Torino 2012,Shell,https://www.imdb.com/title/tt2088893/,movie,6.4,91,2012,Drama,1401,2012-09-23,Scott Graham
+513,tt3155542,2017-02-14,2017-02-14,Cairo 2012,Brecha en el silencio,https://www.imdb.com/title/tt3155542/,movie,6.7,90,2012,Drama,63,2012-11-30,"Luis Alejandro Rodríguez, Andrés Eduardo Rodríguez"
+514,tt2417540,2017-02-14,2017-02-14,Busan 2012,36,https://www.imdb.com/title/tt2417540/,movie,7.0,68,2012,Drama,406,2012-10-06,Nawapol Thamrongrattanarit
+515,tt2233762,2017-02-14,2017-02-14,Perm 2012,Alam laysa lana,https://www.imdb.com/title/tt2233762/,movie,7.9,93,2012,"Documentary, Biography, History",248,2012-09-12,Mahdi Fleifel
+516,tt2443734,2017-02-14,2017-02-14,Abu Dhabi 2012,Al-khoroug lel-nahar,https://www.imdb.com/title/tt2443734/,movie,6.2,96,2012,Drama,151,2012-10-18,Hala Lotfy
+517,tt2298820,2017-02-14,2017-02-14,Valladolid 2012,La cinquième saison,https://www.imdb.com/title/tt2298820/,movie,6.9,93,2012,"Drama, Mystery",1277,2012-09-06,"Jessica Woodworth, Peter Brosens"
+518,tt1987599,2017-05-29,2017-05-29,Valladolid 2012,La lapidation de Saint Étienne,https://www.imdb.com/title/tt1987599/,movie,6.9,83,2012,Drama,47,2012-07-05,Pere Vilà i Barceló
+519,tt1484074,2017-02-14,2017-02-14,Kiev 2012,Emek Tiferet,https://www.imdb.com/title/tt1484074/,movie,5.8,85,2011,Drama,24,2011-07-10,Hadar Friedlich
+520,tt2751492,2017-02-14,2017-02-14,Leipzig 2012,Another Night on Earth,https://www.imdb.com/title/tt2751492/,movie,7.6,52,2012,Documentary,9,2012-03-20,David Muñoz
+521,tt0466893,2017-02-14,2017-05-29,"Vienna 2012
+
+_________________",Margaret,https://www.imdb.com/title/tt0466893/,movie,6.4,150,2011,Drama,14996,2011-09-30,Kenneth Lonergan
+522,tt1964624,2017-02-14,2017-02-14,Toronto 2012,Dans la maison,https://www.imdb.com/title/tt1964624/,movie,7.4,105,2012,"Drama, Mystery, Thriller",27852,2012-09-10,François Ozon
+523,tt1977739,2017-06-11,2017-06-11,Toronto 2012,Call Girl,https://www.imdb.com/title/tt1977739/,movie,6.5,140,2012,"Drama, Thriller",4233,2012-09-07,Mikael Marcimain
+524,tt2202607,2017-02-14,2017-02-14,Miskolc 2012,Toata lumea din familia noastra,https://www.imdb.com/title/tt2202607/,movie,7.5,107,2012,Drama,1247,2012-02-13,Radu Jude
+525,tt2235751,2017-02-14,2017-02-14,Almaty 2012,Konvoy,https://www.imdb.com/title/tt2235751/,movie,6.3,81,2012,Drama,173,2012-02-12,Aleksey Mizgiryov
+526,tt2014270,2017-02-14,2017-02-14,Setúbal 2012,"Lahko noc, gospodicna",https://www.imdb.com/title/tt2014270/,movie,6.7,97,2011,Drama,142,2011-07-20,Metod Pevec
+527,tt2035630,2017-02-14,2017-02-14,Reykjavik 2012,Starlet,https://www.imdb.com/title/tt2035630/,movie,6.8,103,2012,Drama,6416,2012-03-11,Sean Baker
+528,tt2185431,2017-02-14,2017-02-14,Rio de Janeiro 2012,Nosilatiaj. La Belleza,https://www.imdb.com/title/tt2185431/,movie,7.0,83,2012,Drama,48,2012-02-14,Daniela Seggiaro
+529,tt1890391,2017-02-14,2017-02-14,San Sebastian 2012,El muerto y ser feliz,https://www.imdb.com/title/tt1890391/,movie,5.5,92,2012,"Comedy, Drama, Mystery",516,2012-09-22,Javier Rebollo
+530,tt2332522,2017-02-14,2017-02-14,Locarno 2012,Leviathan,https://www.imdb.com/title/tt2332522/,movie,6.6,87,2012,Documentary,3015,2012-08-09,"Verena Paravel, Lucien Castaing-Taylor"
+531,tt1730108,2017-02-14,2017-02-14,Durres 2012,Beli lavovi,https://www.imdb.com/title/tt1730108/,movie,4.0,90,2011,Comedy,582,2011-04-27,Lazar Ristovski
+532,tt2207439,2017-02-14,2017-02-14,Montreal 2012,Atesin Düstügü Yer,https://www.imdb.com/title/tt2207439/,movie,6.0,105,2012,Drama,301,2012-05-04,Ismail Günes
+533,tt2174934,2017-06-11,2017-06-11,Montreal 2012,Casadentro,https://www.imdb.com/title/tt2174934/,movie,4.8,87,2013,Drama,37,2013-01-27,Joanna Lombardi
+534,tt1560747,2017-02-14,2017-02-14,Venice 2012,The Master,https://www.imdb.com/title/tt1560747/,movie,7.2,138,2012,Drama,137722,2012-09-01,Paul Thomas Anderson
+535,tt2290934,2017-06-11,2017-06-11,Venice 2012,L'intervallo,https://www.imdb.com/title/tt2290934/,movie,6.4,90,2012,"Crime, Drama",354,2012-09-04,Leonardo di Costanzo
+536,tt2075333,2017-02-14,2017-02-14,Yerevan 2012,The First Rains of Spring,https://www.imdb.com/title/tt2075333/,movie,6.0,,2011,,5,2011-10-27,"Yerlan Nurmukhambetov, Shinju Sano"
+537,tt2217809,2017-02-14,2017-02-14,Odessa 2012,Gámer,https://www.imdb.com/title/tt2217809/,movie,4.8,92,2011,Drama,454,2011-07-18,Oleg Sentsov
+538,tt2190367,2017-02-14,2017-02-14,"Wroclaw 2012
+Rotterdam 2012",O Som ao Redor,https://www.imdb.com/title/tt2190367/,movie,7.1,131,2012,"Drama, Thriller",6026,2012-02-01,Kleber Mendonça Filho
+539,tt2182726,2017-02-14,2017-02-14,New Dehli 2012,Hansa,https://www.imdb.com/title/tt2182726/,movie,7.7,88,2012,Drama,31,,Manav Kaul
+540,tt1376717,2017-02-14,2017-02-14,Motovun 2012,Play,https://www.imdb.com/title/tt1376717/,movie,7.1,118,2011,Drama,4319,2011-05-15,Ruben Östlund
+541,tt1204340,2017-02-14,2017-02-14,Cluj-Napoca 2012,Tyrannosaur,https://www.imdb.com/title/tt1204340/,movie,7.6,92,2011,Drama,28996,2011-01-21,Paddy Considine
+542,tt1893195,2017-02-14,2017-02-14,Moscow 2012,A.C.A.B. - All Cops Are Bastards,https://www.imdb.com/title/tt1893195/,movie,6.7,112,2012,"Action, Crime, Drama",6718,2012-01-27,Stefano Sollima
+543,tt2161980,2017-02-14,2017-02-14,Karlovy Vary 2012,Pele akher,https://www.imdb.com/title/tt2161980/,movie,7.2,88,2012,Drama,1161,2012-02-01,Ali Mosaffa
+544,tt2091331,2017-02-14,2017-02-14,Ankara 2012,La Mujer de Iván,https://www.imdb.com/title/tt2091331/,movie,6.7,,2011,Drama,32,2011-08-27,Francisca Silva
+545,tt2173668,2017-02-14,2017-02-14,Cannes 2012,Rengaine,https://www.imdb.com/title/tt2173668/,movie,6.3,78,2012,Drama,209,2012-05-15,Rachid Djaidani
+546,tt2099788,2017-02-14,2017-02-14,Seattle 2012,Welcome to Pine Hill,https://www.imdb.com/title/tt2099788/,movie,6.2,81,2012,Drama,216,2012-01-31,Keith Miller
+547,tt2071620,2017-02-14,2017-02-14,Krakow 2012,The Flat,https://www.imdb.com/title/tt2071620/,movie,6.9,97,2011,Documentary,1437,2011-07-11,Arnon Goldfinger
+548,tt1847731,2017-02-14,2017-02-14,Buenos Aires 2012,Tomboy,https://www.imdb.com/title/tt1847731/,movie,7.4,82,2011,Drama,15870,2011-02-11,Céline Sciamma
+549,tt2139843,2017-02-14,2017-02-14,Krakow 2012,Electrick Children,https://www.imdb.com/title/tt2139843/,movie,6.8,96,2012,Drama,5426,2012-02-10,Rebecca Thomas
+550,tt2069972,2017-02-14,2017-02-14,Lecce 2012,Vacuum,https://www.imdb.com/title/tt2069972/,movie,8.4,94,2012,Drama,86,2012-04-20,Giorgio Cugno
+551,tt2190483,2017-02-14,2017-02-14,Wiesbaden 2012,Zhit,https://www.imdb.com/title/tt2190483/,movie,7.3,119,2012,Drama,1232,2012-01-31,Vasiliy Sigarev
+552,tt1441368,2017-02-14,2017-02-14,San Francisco 2012,Hahithalfut,https://www.imdb.com/title/tt1441368/,movie,6.3,94,2011,Drama,268,2011-09-30,Eran Kolirin
+553,tt2014392,2017-02-14,2017-02-14,Guadalajara 2012,Violeta se fue a los cielos,https://www.imdb.com/title/tt2014392/,movie,7.3,110,2011,"Biography, Drama, Music",1934,2011-08-11,Andrés Wood
+554,tt2307020,2017-02-14,2017-02-14,Thessaloniki 2012,Canícula,https://www.imdb.com/title/tt2307020/,movie,7.7,65,2012,Documentary,18,2012-07-26,José Álvarez
+555,tt1517225,2017-02-14,2017-02-14,Sofia 2012,Neprijatelj,https://www.imdb.com/title/tt1517225/,movie,7.4,108,2011,"Drama, Horror, Mystery, Thriller, War",2239,2011-03-06,Dejan Zecevic
+556,tt1934427,2017-02-14,2017-02-14,Hong Kong 2012,Laut Bercermin,https://www.imdb.com/title/tt1934427/,movie,7.1,100,2011,Drama,73,2011-05-05,Kamila Andini
+557,tt2167895,2017-02-14,2017-02-16,"Toulouse 2012
+Rio de Janeiro 2011",Sudoeste,https://www.imdb.com/title/tt2167895/,movie,7.2,128,2011,Drama,269,2011-10-13,Eduardo Nunes
+558,tt1814665,2017-02-14,2017-02-14,Fribourg 2012,Ka-woon-teu-da-woon,https://www.imdb.com/title/tt1814665/,movie,6.5,119,2011,"Action, Drama",326,2011-09-13,Jong-ho Huh
+559,tt2106671,2017-02-14,2017-02-14,Istanbul 2012,Tepenin Ardi,https://www.imdb.com/title/tt2106671/,movie,7.3,94,2012,"Drama, Mystery",2507,2012-02-10,Emin Alper
+560,tt1740522,2017-02-14,2017-02-14,Mumbai 2012,Nargis: When Time Stopped Breathing,https://www.imdb.com/title/tt1740522/,movie,8.5,90,2010,Documentary,13,2010-04-18,"Kyaw Kyaw Oo, Maung Myint Aung"
+561,tt1753899,2017-02-14,2017-02-14,Berlin 2012,Hemel,https://www.imdb.com/title/tt1753899/,movie,5.7,80,2012,Drama,1298,2012-01-29,Sacha Polak
+562,tt2153963,2017-06-11,2017-06-11,Berlin 2012,Tabu,https://www.imdb.com/title/tt2153963/,movie,7.3,118,2012,"Drama, Romance",6133,2012-02-14,Miguel Gomes
+563,tt2120088,2017-06-11,2017-06-11,Berlin 2012,L'âge atomique,https://www.imdb.com/title/tt2120088/,movie,6.0,67,2012,Drama,386,2012-01-21,Héléna Klotz
+564,tt1865357,2017-02-14,2017-02-14,Cartagena 2012,El estudiante,https://www.imdb.com/title/tt1865357/,movie,7.0,110,2011,Drama,999,2011-04-30,Santiago Mitre
+565,tt1316540,2017-02-14,2017-06-11,"Palm Springs 2012
+Berlin 2011",A torinói ló,https://www.imdb.com/title/tt1316540/,movie,7.8,155,2011,Drama,14042,2011-02-15,"Béla Tarr, Ágnes Hranitzky"
+566,tt1925421,2017-02-14,2017-02-14,Tromsø 2012,Elena,https://www.imdb.com/title/tt1925421/,movie,7.3,109,2011,"Crime, Drama, Thriller",11813,2011-05-21,Andrey Zvyagintsev
+567,tt1601227,2017-02-14,2017-02-14,Gothenburg 2012,Sønner av Norge,https://www.imdb.com/title/tt1601227/,movie,6.5,87,2011,Drama,1593,2011-08-21,Jens Lien
+568,tt0478304,2017-09-21,2017-09-21,Grand Prix - Best film of the year 2011,The Tree of Life,https://www.imdb.com/title/tt0478304/,movie,6.8,139,2011,"Drama, Fantasy",159117,2011-05-16,Terrence Malick
+569,tt1913002,2017-02-16,2017-02-16,Havana 2011,Bonsái,https://www.imdb.com/title/tt1913002/,movie,6.4,95,2011,Drama,794,2011-05-14,Cristián Jiménez
+570,tt1670646,2017-02-16,2017-02-16,Dubai 2011,Habibi Rasak Kharban,https://www.imdb.com/title/tt1670646/,movie,6.4,85,2011,"Drama, Romance, War",104,2011-09-04,Susan Youssef
+571,tt2767580,2017-06-11,2017-06-11,Dubai 2011,Marcedes,https://www.imdb.com/title/tt2767580/,movie,8.4,68,2011,Documentary,17,2011-12-31,Hady Zaccak
+572,tt1945039,2017-06-11,2017-06-11,Kerala 2011,Adaminte Makan Abu,https://www.imdb.com/title/tt1945039/,movie,8.0,101,2011,Drama,1058,2011-06-24,Salim Ahmed
+573,tt2033997,2017-02-16,2017-02-16,Kerala 2011,Gelecek Uzun Sürer,https://www.imdb.com/title/tt2033997/,movie,6.8,108,2011,Drama,878,2011-09-09,Özcan Alper
+574,tt2004270,2017-02-16,2017-02-16,Cottbus 2011,Ki,https://www.imdb.com/title/tt2004270/,movie,5.9,93,2011,Drama,330,2011-07-23,Leszek Dawid
+575,tt1754078,2017-02-16,2017-02-16,Bratislava 2011,Las acacias,https://www.imdb.com/title/tt1754078/,movie,6.8,82,2011,Drama,2128,2011-05-13,Pablo Giorgelli
+576,tt2095657,2017-02-16,2017-02-16,Geneva 2011,Hetun,https://www.imdb.com/title/tt2095657/,movie,6.5,88,2011,"Drama, Romance",120,2011-06-29,Chi-Yuarn Lee
+577,tt1821561,2017-02-16,2017-02-16,Thessaloniki 2011,Osmdesát dopisu,https://www.imdb.com/title/tt1821561/,movie,6.7,75,2011,"Drama, Family",63,2011-02-15,Václav Kadrnka
+578,tt2096485,2017-06-11,2017-06-11,Thessaloniki 2011,I poli ton paidion,https://www.imdb.com/title/tt2096485/,movie,6.1,96,2011,Drama,135,2011-11-06,Yorgos Gkikapeppas
+579,tt1825758,2017-02-16,2017-02-16,Mar del Plata 2011,El lugar más pequeño,https://www.imdb.com/title/tt1825758/,movie,7.9,100,2011,Documentary,117,2011-04-30,Tatiana Huezo
+580,tt1340800,2017-02-16,2017-02-16,Stockholm 2011,Tinker Tailor Soldier Spy,https://www.imdb.com/title/tt1340800/,movie,7.1,122,2011,"Drama, Mystery, Thriller",177720,2011-09-05,Tomas Alfredson
+581,tt2043879,2017-02-16,2017-02-16,Ljubljana 2011,Histórias que Só Existem Quando Lembradas,https://www.imdb.com/title/tt2043879/,movie,7.3,98,2011,Drama,674,2011-09-02,Júlia Murat
+582,tt1787747,2017-02-16,2017-02-16,"Mannheim-Heidelberg 2011
+Torino 2011
+San Francisco 2011",Le vendeur,https://www.imdb.com/title/tt1787747/,movie,7.0,107,2011,Drama,565,2011-01-21,Sébastien Pilote
+583,tt1813175,2017-02-16,2017-02-16,Tallinn 2011,Barzakh,https://www.imdb.com/title/tt1813175/,movie,7.0,59,2011,Documentary,133,2011-01-25,Mantas Kvedaravicius
+584,tt1687281,2017-02-16,2017-02-16,Gijón 2011,Terri,https://www.imdb.com/title/tt1687281/,movie,6.5,105,2011,"Comedy, Drama",9204,2011-01-22,Azazel Jacobs
+585,tt1723118,2017-02-16,2017-02-16,Taipei 2011,Gang de qin,https://www.imdb.com/title/tt1723118/,movie,7.4,119,2010,"Comedy, Drama",1070,2010-09-11,"Bo Gao, Meng Zhang"
+586,tt1855282,2017-02-16,2017-02-16,Busan 2011,Soog,https://www.imdb.com/title/tt1855282/,movie,7.0,85,2011,Drama,271,2011-10-09,Morteza Farshbaf
+587,tt1922733,2017-02-16,2017-02-16,Oslo 2011,Sur la planche,https://www.imdb.com/title/tt1922733/,movie,5.8,110,2011,Drama,137,2011-05-19,Leila Kilani
+588,tt1833647,2017-02-16,2017-02-16,Warsaw 2011,Avé,https://www.imdb.com/title/tt1833647/,movie,6.9,86,2011,Drama,1492,2011-05-17,Konstantin Bojanov
+589,tt1946205,2017-02-16,2017-02-16,Abu Dhabi 2011,El Gusto,https://www.imdb.com/title/tt1946205/,movie,7.7,88,2011,Documentary,145,2011-10-08,Safinez Bousbia
+590,tt2084148,2017-02-16,2017-02-16,Leipzig 2011,Work Hard - Play Hard,https://www.imdb.com/title/tt2084148/,movie,7.0,90,2012,"Documentary, News",266,2012-04-12,Carmen Losmann
+591,tt2011971,2017-02-16,2017-02-16,Valladolid 2011,Monsieur Lazhar,https://www.imdb.com/title/tt2011971/,movie,7.5,94,2011,"Comedy, Drama",18434,2011-08-08,Philippe Falardeau
+592,tt1680679,2017-02-16,2017-02-16,Kiev 2011,Atmen,https://www.imdb.com/title/tt1680679/,movie,7.0,94,2011,Drama,2652,2011-05-19,Karl Markovics
+593,tt1886762,2017-02-16,2017-02-16,Vienna 2011,Yatasto,https://www.imdb.com/title/tt1886762/,movie,6.8,95,2011,Documentary,29,2011-04-30,Hermes Paralluelo
+594,tt1826593,2017-02-16,2017-02-16,Toronto 2011,Avalon,https://www.imdb.com/title/tt1826593/,movie,5.4,79,2011,"Drama, Thriller",1127,2011-09-11,Axel Petersén
+595,tt1349457,2017-06-11,2017-06-11,Toronto 2011,Le premier homme,https://www.imdb.com/title/tt1349457/,movie,6.9,101,2011,Drama,476,2011-09-09,Gianni Amelio
+596,tt1832382,2017-02-16,2017-02-16,Riga 2011,Jodaeiye Nader az Simin,https://www.imdb.com/title/tt1832382/,movie,8.3,123,2011,Drama,203634,2011-02-01,Asghar Farhadi
+597,tt1825970,2017-06-11,2017-06-11,Riga 2011,Surnuaiavahi tütar,https://www.imdb.com/title/tt1825970/,movie,6.4,100,2011,Drama,136,2011-02-25,Katrin Laur
+598,tt1625155,2017-02-16,2017-02-16,San Sebastian 2011,Sangue do Meu Sangue,https://www.imdb.com/title/tt1625155/,movie,7.4,131,2011,"Drama, Thriller",1671,2011-09-10,João Canijo
+599,tt1906344,2017-02-16,2017-02-16,Almaty 2011,Busong,https://www.imdb.com/title/tt1906344/,movie,7.1,,2011,Drama,34,2011-05-16,Auraeus Solito
+600,tt1695831,2017-02-16,2017-02-16,Reykjavik 2011,Eldfjall,https://www.imdb.com/title/tt1695831/,movie,7.2,99,2011,Drama,1227,2011-05-13,Rúnar Rúnarsson
+601,tt2023367,2017-02-16,2017-02-16,Locarno 2011,Abrir puertas y ventanas,https://www.imdb.com/title/tt2023367/,movie,6.1,99,2011,Drama,585,2011-08-08,Milagros Mumenthaler
+602,tt1808045,2017-02-16,2017-02-16,Montreal 2011,Czarny czwartek. Janek Wisniewski padl,https://www.imdb.com/title/tt1808045/,movie,6.6,105,2011,"Drama, History",914,2011-02-25,Antoni Krauze
+603,tt1625150,2017-06-11,2017-06-11,Montreal 2011,"Noordzee, Texas",https://www.imdb.com/title/tt1625150/,movie,7.1,98,2011,"Drama, Romance",7722,2011-03-16,Bavo Defurne
+604,tt1741706,2017-02-16,2017-02-16,Durres 2011,Nunta in Basarabia,https://www.imdb.com/title/tt1741706/,movie,7.6,92,2009,Comedy,962,2009-12-02,Nap Toader
+605,tt1723811,2017-02-16,2017-02-16,Venice 2011,Shame,https://www.imdb.com/title/tt1723811/,movie,7.2,101,2011,Drama,174367,2011-09-04,Steve McQueen
+606,tt2359417,2017-06-11,2017-06-11,Venice 2011,Two Years at Sea,https://www.imdb.com/title/tt2359417/,movie,6.9,88,2011,Documentary,488,2011-09-30,Ben Rivers
+607,tt1555058,2017-02-16,2017-02-16,Karlovy Vary 2011,Collaborator,https://www.imdb.com/title/tt1555058/,movie,6.0,87,2011,"Comedy, Drama, Thriller",728,2011-07-04,Martin Donovan
+608,tt1703238,2017-02-16,2017-02-16,Yerevan 2011,Mandoo,https://www.imdb.com/title/tt1703238/,movie,6.5,90,2010,Drama,37,2010-08-13,Ebrahim Saeedi
+609,tt1587109,2017-02-16,2017-02-16,Wroclaw 2011,A sírásó,https://www.imdb.com/title/tt1587109/,movie,6.1,85,2010,Drama,31,2010-12-31,Sándor Kardos
+610,tt1547891,2017-02-16,2017-02-16,Motovun 2011,Martha,https://www.imdb.com/title/tt1547891/,movie,7.0,76,2010,Drama,38,2010-03-01,Marcelino Islas Hernández
+611,tt1720215,2017-02-16,2017-02-16,Setúbal 2011,Saç,https://www.imdb.com/title/tt1720215/,movie,6.2,120,2010,Drama,273,2010-08-12,Tayfun Pirselimoglu
+612,tt1516593,2017-02-16,2017-02-16,Cluj-Napoca 2011,Tilva Ros,https://www.imdb.com/title/tt1516593/,movie,7.2,99,2010,"Drama, Romance",940,2010-07-28,Nikola Lezaic
+613,tt1663660,2017-02-16,2017-02-16,Seattle 2011,On the Ice,https://www.imdb.com/title/tt1663660/,movie,6.3,96,2011,"Drama, Thriller",917,2011-01-21,Andrew Okpeaha MacLean
+614,tt1776942,2017-02-16,2017-02-16,Moscow 2011,Las olas,https://www.imdb.com/title/tt1776942/,movie,6.1,95,2011,,52,2011-06-28,Alberto Morais
+615,tt1711021,2017-02-16,2017-02-16,Ankara 2011,Zefir,https://www.imdb.com/title/tt1711021/,movie,6.3,93,2010,Drama,473,2010-09-14,Belma Bas
+616,tt1508675,2017-02-16,2017-02-16,Cannes 2011,Le Havre,https://www.imdb.com/title/tt1508675/,movie,7.2,93,2011,"Comedy, Drama",18896,2011-05-17,Aki Kaurismäki
+617,tt1781843,2017-06-11,2017-06-11,Cannes 2011,L'exercice de l'État,https://www.imdb.com/title/tt1781843/,movie,6.7,115,2011,"Comedy, Drama",2407,2011-05-19,Pierre Schoeller
+618,tt1675192,2017-06-11,2017-06-11,Cannes 2011,Take Shelter,https://www.imdb.com/title/tt1675192/,movie,7.4,121,2011,"Drama, Horror, Thriller",85266,2011-01-24,Jeff Nichols
+619,tt1746183,2017-02-16,2017-02-16,Wiesbaden 2011,Kochegar,https://www.imdb.com/title/tt1746183/,movie,6.6,87,2010,"Crime, Drama",1690,2010-10-13,Aleksey Balabanov
+620,tt1714703,2017-02-16,2017-02-16,Buenos Aires 2011,Qu'ils reposent en révolte (Des figures de guerre),https://www.imdb.com/title/tt1714703/,movie,7.1,150,2010,Documentary,35,2010-07-10,Sylvain George
+621,tt1808454,2017-02-16,2017-02-16,Krakow 2011,Sala samobójców,https://www.imdb.com/title/tt1808454/,movie,6.7,110,2011,"Animation, Drama, Thriller",8584,2011-02-12,Jan Komasa
+622,tt1815586,2017-02-16,2017-02-16,Lecce 2011,Amnistia,https://www.imdb.com/title/tt1815586/,movie,6.3,83,2011,Drama,185,2011-02-28,Bujar Alimani
+623,tt1270842,2017-02-16,2017-02-16,Istanbul 2011,Noruwei no mori,https://www.imdb.com/title/tt1270842/,movie,6.4,133,2010,"Drama, Romance",10411,2010-09-02,Anh Hung Tran
+624,tt1834872,2017-06-11,2017-06-11,Istanbul 2011,Press,https://www.imdb.com/title/tt1834872/,movie,7.1,100,2010,"Drama, History",516,2010-10-10,Sedat Yilmaz
+625,tt1278449,2017-02-17,2017-02-17,Sofia 2011,Sound of Noise,https://www.imdb.com/title/tt1278449/,movie,7.2,102,2010,"Comedy, Crime, Music, Romance, Thriller",8453,2010-05-18,"Johannes Stjärne Nilsson, Ola Simonsson"
+626,tt3615116,2017-02-17,2017-02-17,Thessaloniki 2011,Hotel Rai,https://www.imdb.com/title/tt3615116/,movie,8.0,54,2010,Documentary,28,2010-10-31,Sophia Tzavella
+627,tt1856048,2017-06-11,2017-06-11,Thessaloniki 2011,Mono oi lexeis synehizoun,https://www.imdb.com/title/tt1856048/,movie,,53,2011,Documentary,,2011-03-16,Kalliopi Legaki
+628,tt1726686,2017-02-17,2017-02-17,Toulouse 2011,Lucía,https://www.imdb.com/title/tt1726686/,movie,6.1,80,2010,Drama,47,2010-09-20,Niles Atallah
+629,tt1287878,2017-02-17,2017-02-17,Fribourg 2011,Shi,https://www.imdb.com/title/tt1287878/,movie,7.8,139,2010,Drama,9074,2010-05-13,Chang-dong Lee
+630,tt1836099,2017-02-17,2017-02-17,Hong Kong 2011,Pasookkoon,https://www.imdb.com/title/tt1836099/,movie,7.1,116,2010,Drama,910,2010-10-11,Sung-hyun Yoon
+631,tt1509842,2017-02-17,2017-02-17,Berlin 2011,Dernier étage gauche gauche,https://www.imdb.com/title/tt1509842/,movie,6.3,110,2010,"Comedy, Drama",177,2010-07-06,Angelo Cianci
+632,tt1685536,2017-06-11,2017-06-11,Berlin 2011,Hevunzu sutôrî,https://www.imdb.com/title/tt1685536/,movie,7.3,278,2010,Drama,66,2010-10-02,Takahisa Zeze
+633,tt1719497,2017-02-17,2017-02-17,Cartagena 2011,La vida útil,https://www.imdb.com/title/tt1719497/,movie,6.4,67,2010,Drama,634,2010-08-13,Federico Veiroj
+634,tt1588875,2017-02-17,2017-02-17,Tromsø 2011,Kak ya provyol etim letom,https://www.imdb.com/title/tt1588875/,movie,7.0,130,2010,Drama,6214,2010-02-17,Aleksey Popogrebskiy
+635,tt1827358,2017-02-17,2017-02-17,Gothenburg 2011,Apflickorna,https://www.imdb.com/title/tt1827358/,movie,5.5,83,2011,"Drama, Sport",2241,2011-01-31,Lisa Aschan
+636,tt1588337,2017-08-31,2017-09-21,"Palm Springs 2011
+
+Best foreign language film of the year 2011",Des hommes et des dieux,https://www.imdb.com/title/tt1588337/,movie,7.2,122,2010,"Drama, History",14165,2010-05-18,Xavier Beauvois
+637,tt1139328,2017-09-21,2017-09-21,Grand Prix - Best film of the year 2010,The Ghost Writer,https://www.imdb.com/title/tt1139328/,movie,7.2,128,2010,"Drama, Mystery, Thriller",150446,2010-02-12,Roman Polanski
+638,tt1483831,2017-09-21,2017-09-21,European Discovery Award - Prix FIPRESCI 2010,Lebanon,https://www.imdb.com/title/tt1483831/,movie,6.9,93,2009,"Drama, War",10649,2009-09-08,Samuel Maoz
+639,tt1868050,2017-08-31,2017-08-31,Wroclaw 2010,Mama,https://www.imdb.com/title/tt1868050/,movie,6.8,71,2010,Drama,24,2010-09-14,"Nikolay Renard, Yelena Renard"
+640,tt1646975,2017-08-31,2017-09-02,"Motovun 2010
+Reykjavik 2010",Le quattro volte,https://www.imdb.com/title/tt1646975/,movie,7.2,88,2010,Drama,3463,2010-05-16,Michelangelo Frammartino
+641,tt1156531,2017-08-31,2017-08-31,Yerevan 2010,Na putu,https://www.imdb.com/title/tt1156531/,movie,6.9,100,2010,Drama,1742,2010-02-18,Jasmila Zbanic
+642,tt1558877,2017-08-31,2017-08-31,Istanbul 2010,Vavien,https://www.imdb.com/title/tt1558877/,movie,7.5,100,2009,"Comedy, Drama, Thriller",10099,2009-12-18,"Durul Taylan, Yagmur Taylan"
+643,tt1285246,2017-08-31,2017-08-31,Istanbul 2010,Mademoiselle Chambon,https://www.imdb.com/title/tt1285246/,movie,6.9,101,2009,"Drama, Romance",2505,2009-10-11,Stéphane Brizé
+644,tt1499698,2017-08-31,2017-08-31,Miami 2010,Touxi,https://www.imdb.com/title/tt1499698/,movie,7.5,100,2009,Drama,50,2009-09-09,Jie Liu
+645,tt1646979,2017-08-31,2017-08-31,Almaty 2010,Svet-Ake,https://www.imdb.com/title/tt1646979/,movie,6.4,80,2010,Drama,377,2010-05-15,Aktan Arym Kubat
+646,tt1697922,2017-08-31,2017-08-31,San Sebastian 2010,Genpin,https://www.imdb.com/title/tt1697922/,movie,8.4,92,2010,Documentary,360,2010-09-30,Naomi Kawase
+647,tt1795051,2017-08-31,2017-09-02,"Mannheim-Heidelberg 2010
+Hong Kong 2010",Xun huan zuo le,https://www.imdb.com/title/tt1795051/,movie,5.4,93,2010,Drama,11,2010-11-26,Dayong Zhao
+648,tt1268989,2017-08-31,2017-08-31,Ljubljana 2010,The Unloved,https://www.imdb.com/title/tt1268989/,tvMovie,6.8,106,2009,Drama,990,2009-05-06,Samantha Morton
+649,tt1591622,2017-08-31,2017-08-31,Bratislava 2010,10½,https://www.imdb.com/title/tt1591622/,movie,7.1,108,2010,Drama,592,2010-10-13,Daniel Grou
+650,tt2754544,2017-08-31,2017-08-31,Dubai 2010,Zelal,https://www.imdb.com/title/tt2754544/,movie,,90,2010,Documentary,,2010-09-09,"Marianne Khoury, Mustafa Hasnaoui"
+651,tt1830704,2017-08-31,2017-08-31,Kerala 2010,Makaramanju,https://www.imdb.com/title/tt1830704/,movie,5.7,,2010,"Biography, Drama",47,2010-12-31,Lenin Rajendran
+652,tt1337140,2017-08-31,2017-08-31,Kerala 2010,Anonymes,https://www.imdb.com/title/tt1337140/,movie,6.3,91,2009,Drama,169,2009-09-04,Raja Amari
+653,tt1606382,2017-08-31,2017-08-31,Toronto 2010,L'amour fou,https://www.imdb.com/title/tt1606382/,movie,6.8,98,2010,Documentary,939,2010-09-22,Pierre Thoretton
+654,tt1756640,2017-08-31,2017-08-31,Mumbai 2010,Nero's Guests,https://www.imdb.com/title/tt1756640/,movie,9.2,55,2009,Documentary,94,2009-12-31,Deepa Bhatia
+655,tt1434443,2017-08-31,2017-08-31,Gothenburg 2010,R,https://www.imdb.com/title/tt1434443/,movie,7.1,99,2010,"Crime, Drama",4278,2010-01-31,"Michael Noer, Tobias Lindholm"
+656,tt1728125,2017-08-31,2017-08-31,Dhaka 2010,Gohine Shobdo,https://www.imdb.com/title/tt1728125/,movie,7.4,105,2010,"Action, Drama",94,2010-01-13,Khalid Mahmood Mithu
+657,tt1368439,2017-08-31,2017-09-02,"Dhaka 2010
+Palm Springs 2010
+Seattle 2009
+Wiesbaden 2009",Gagma napiri,https://www.imdb.com/title/tt1368439/,movie,7.8,90,2009,Drama,1016,2009-02-07,George Ovashvili
+658,tt1422184,2017-09-02,2017-09-02,Tromsø 2010,11'e 10 kala,https://www.imdb.com/title/tt1422184/,movie,7.2,110,2009,Drama,1498,2009-04-16,Pelin Esmer
+659,tt1424797,2017-09-02,2017-09-02,Palm Springs 2010,J'ai tué ma mère,https://www.imdb.com/title/tt1424797/,movie,7.5,96,2009,"Drama, Romance",25448,2009-05-18,Xavier Dolan
+660,tt1232826,2017-09-02,2017-09-02,"Palm Springs 2010
+Miami 2009",De ofrivilliga,https://www.imdb.com/title/tt1232826/,movie,7.1,98,2008,Drama,4411,2008-05-19,Ruben Östlund
+661,tt1480298,2017-09-02,2017-09-02,Rotterdam 2010,Let Each One Go Where He May,https://www.imdb.com/title/tt1480298/,movie,7.0,135,2009,Drama,61,2009-09-12,Ben Russell
+662,tt1802806,2017-09-02,2017-09-02,Pusan 2010,Musanilgi,https://www.imdb.com/title/tt1802806/,movie,6.9,127,2010,Drama,175,2010-10-08,Jung-bum Park
+663,tt1646221,2017-09-02,2017-09-02,Warsaw 2010,Periferic,https://www.imdb.com/title/tt1646221/,movie,6.7,87,2010,"Drama, Thriller",735,2010-08-10,Bogdan George Apetri
+664,tt1686053,2017-09-02,2017-09-02,Thessaloniki 2010,Apnoia,https://www.imdb.com/title/tt1686053/,movie,5.6,87,2010,"Drama, Thriller",226,2010-12-09,Aris Bafaloukas
+665,tt1567130,2017-09-02,2017-09-02,Thessaloniki 2010,Morgen,https://www.imdb.com/title/tt1567130/,movie,7.0,100,2010,Drama,926,2010-08-07,"Marian Crisan, Anca Puiu"
+666,tt1714886,2017-09-02,2017-09-02,Havana 2010,Post Mortem,https://www.imdb.com/title/tt1714886/,movie,6.6,98,2010,Drama,1908,2010-09-05,Pablo Larraín
+667,tt1616204,2017-09-02,2017-09-02,Cairo 2010,Zad kadar,https://www.imdb.com/title/tt1616204/,movie,6.8,107,2010,Drama,84,2010-03-05,Svetoslav Ovtcharov
+668,tt1247696,2017-09-02,2017-09-02,Tallinn 2010,Püha Tõnu kiusamine,https://www.imdb.com/title/tt1247696/,movie,7.2,114,2009,"Drama, Fantasy, Mystery",1142,2009-10-10,Veiko Õunpuu
+669,tt1429392,2017-09-02,2017-09-02,Torino 2010,Small Town Murder Songs,https://www.imdb.com/title/tt1429392/,movie,5.9,75,2010,"Crime, Drama, Thriller",2765,2010-09-14,Ed Gass-Donnelly
+670,tt1518812,2017-09-02,2017-09-02,Gijon 2010,Meek's Cutoff,https://www.imdb.com/title/tt1518812/,movie,6.5,104,2010,"Drama, Western",10763,2010-09-05,Kelly Reichardt
+671,tt1760956,2017-09-02,2017-09-02,Venice 2010,"El Sicario, Room 164",https://www.imdb.com/title/tt1760956/,movie,7.2,80,2010,Documentary,594,2010-09-05,Gianfranco Rosi
+672,tt1693830,2017-09-02,2017-09-02,Venice 2010,Ovsyanki,https://www.imdb.com/title/tt1693830/,movie,6.7,78,2010,"Drama, Romance",2047,2010-09-25,Aleksey Fedorchenko
+673,tt1398029,2017-09-02,2017-09-02,Montreal 2010,Das Lied in mir,https://www.imdb.com/title/tt1398029/,movie,6.8,94,2010,Drama,744,2010-09-03,Florian Cossen
+674,tt1827391,2017-09-02,2017-09-02,Rio de Janeiro 2010,Diario de Uma Busca,https://www.imdb.com/title/tt1827391/,movie,7.6,108,2010,"Documentary, Biography, Drama, History",48,2010-06-22,Flávia Castro
+675,tt1701993,2017-09-02,2017-09-02,Locarno 2010,Han jia,https://www.imdb.com/title/tt1701993/,movie,6.4,91,2010,Drama,220,2010-08-11,Hongqi Li
+676,tt1576443,2017-09-02,2017-09-02,Karlovy Vary 2010,Hitler à Hollywood,https://www.imdb.com/title/tt1576443/,movie,5.7,85,2010,Drama,155,2010-07-07,Frédéric Sojcher
+677,tt1359442,2017-09-02,2017-09-02,Moscow 2010,An Earthy Paradise for the Eyes,https://www.imdb.com/title/tt1359442/,movie,5.8,114,2009,"Comedy, Drama, History",130,2009-11-17,Irena Pavlásková
+678,tt1646984,2017-09-02,2017-09-02,Cannes 2010,Todos vós sodes capitáns,https://www.imdb.com/title/tt1646984/,movie,6.2,78,2010,Drama,125,2010-05-19,Oliver Laxe
+679,tt0146592,2017-09-02,2017-09-02,Cannes 2010,Pál Adrienn,https://www.imdb.com/title/tt0146592/,movie,6.7,136,2010,Drama,458,2010-05-16,Ágnes Kocsis
+680,tt1451762,2017-09-02,2017-09-02,Cannes 2010,Tournée,https://www.imdb.com/title/tt1451762/,movie,6.6,111,2010,"Comedy, Drama",2375,2010-05-13,Mathieu Amalric
+681,tt1503773,2017-09-02,2017-09-02,Berlin 2010,El vuelco del cangrejo,https://www.imdb.com/title/tt1503773/,movie,6.6,95,2009,Drama,397,2009-09-13,Oscar Ruiz Navia
+682,tt1493070,2017-09-02,2017-09-02,Berlin 2010,Parêdo,https://www.imdb.com/title/tt1493070/,movie,7.2,118,2009,Drama,547,2009-10-12,Isao Yukisada
+683,tt1568815,2017-09-02,2017-09-02,Berlin 2010,En familie,https://www.imdb.com/title/tt1568815/,movie,6.6,102,2010,Drama,1145,2010-02-19,Pernille Fischer Christensen
+684,tt1426362,2017-09-02,2017-09-02,"Ljubljana 2009
+Cairo 2009",Go Get Some Rosemary,https://www.imdb.com/title/tt1426362/,movie,6.7,100,2009,"Comedy, Drama",1160,2009-05-16,"Josh Safdie, Benny Safdie"
+685,tt1547940,2017-09-02,2017-09-02,Kerala 2009,Patham Nilayile Theevandi,https://www.imdb.com/title/tt1547940/,movie,6.6,102,2009,"Drama, Family",32,2009-11-13,Joshy Mathew
+686,tt1546005,2017-09-02,2017-09-02,Kerala 2009,La mosca en la ceniza,https://www.imdb.com/title/tt1546005/,movie,7.1,98,2009,Drama,81,2009-10-31,Gabriela David
+687,tt1420546,2017-09-02,2017-09-02,Dubai 2009,Harragas,https://www.imdb.com/title/tt1420546/,movie,6.7,95,2009,Drama,122,2009-09-30,Merzak Allouache
+688,tt1500761,2017-09-02,2017-09-02,Havana 2009,"Viajo Porque Preciso, Volto Porque te Amo",https://www.imdb.com/title/tt1500761/,movie,7.3,75,2009,Drama,640,2009-09-04,"Marcelo Gomes, Karim Aïnouz"
+689,tt1421032,2017-09-02,2017-09-02,Tallinn 2009,Disko ja tuumasõda,https://www.imdb.com/title/tt1421032/,movie,7.5,80,2009,Documentary,438,2009-04-10,Jaak Kilmi
+690,tt1331320,2017-09-02,2017-09-02,Bratislava 2009,Norteado,https://www.imdb.com/title/tt1331320/,movie,6.9,95,2009,Drama,299,2009-05-31,Rigoberto Pérezcano
+691,tt1363490,2017-09-02,2017-09-02,Taipei 2009,Yang Yang,https://www.imdb.com/title/tt1363490/,movie,6.6,112,2009,Drama,254,2009-02-08,Yu-Chieh Cheng
+692,tt1353168,2017-09-02,2017-09-02,Gijon 2009,Francesca,https://www.imdb.com/title/tt1353168/,movie,6.1,94,2009,Drama,522,2009-09-03,Bobby Paunescu
+693,tt0929632,2017-09-02,2017-09-02,Stockholm 2009,Precious,https://www.imdb.com/title/tt0929632/,movie,7.3,110,2009,Drama,101507,2009-01-16,Lee Daniels
+694,tt1127715,2017-09-02,2017-09-02,Stockholm 2009,Sin nombre,https://www.imdb.com/title/tt1127715/,movie,7.6,96,2009,"Adventure, Crime, Drama, Thriller",29953,2009-01-18,Cary Joji Fukunaga
+695,tt1603480,2017-09-02,2017-09-02,Torino 2009,La bocca del lupo,https://www.imdb.com/title/tt1603480/,movie,6.8,68,2009,"Documentary, Biography",415,2009-11-16,Pietro Marcello
+696,tt1372687,2017-09-02,2017-09-02,Cottbus 2009,Crnci,https://www.imdb.com/title/tt1372687/,movie,6.2,75,2009,"Crime, Drama, War",431,2009-07-20,"Goran Devic, Zvonimir Juric"
+697,tt1318034,2017-09-02,2017-09-02,Mannheim-Heidelberg 2009,Coeur animal,https://www.imdb.com/title/tt1318034/,movie,7.0,91,2009,Drama,154,2009-08-31,Séverine Cornamusaz
+698,tt1436000,2017-09-02,2017-09-02,Leipzig 2009,Cooking History,https://www.imdb.com/title/tt1436000/,movie,7.4,88,2009,Documentary,238,2009-04-07,Péter Kerekes
+699,tt1275723,2017-09-02,2017-09-02,Valladolid 2009,Medeni mesec,https://www.imdb.com/title/tt1275723/,movie,6.4,95,2009,Drama,304,2009-09-05,Goran Paskaljevic
+700,tt2082510,2017-09-02,2017-09-02,"Vienna 2009
+Perm 2009",Xiao li zi,https://www.imdb.com/title/tt2082510/,movie,7.7,94,2008,Documentary,7,2008-12-31,Guangyi Yu
+701,tt1545696,2017-09-02,2017-09-02,Thessaloniki 2009,O diaheiristis,https://www.imdb.com/title/tt1545696/,movie,5.9,92,2009,Drama,68,2009-11-14,Periklis Hoursoglou
+702,tt1504960,2017-09-02,2017-09-02,Thessaloniki 2009,Medalia de onoare,https://www.imdb.com/title/tt1504960/,movie,7.7,104,2009,"Comedy, Drama",775,2009-11-14,Cãlin Peter Netzer
+703,tt1542971,2017-09-02,2017-09-02,Mar del Plata 2009,Vikingo,https://www.imdb.com/title/tt1542971/,movie,6.7,90,2009,Drama,64,2009-11-08,José Celestino Campusano
+704,tt1118045,2017-09-02,2017-09-02,Geneva 2009,Tamo i ovde,https://www.imdb.com/title/tt1118045/,movie,6.3,85,2009,"Comedy, Drama",955,2009-03-01,Darko Lungulov
+705,tt1288639,2017-09-02,2017-09-02,Athens 2009,Djavolja varos,https://www.imdb.com/title/tt1288639/,movie,5.6,82,2009,"Comedy, Drama",401,2009-07-10,Vladimir Paskaljevic
+706,tt1132607,2017-09-02,2017-09-02,Kiev 2009,Versailles,https://www.imdb.com/title/tt1132607/,movie,6.9,102,2008,Drama,491,2008-05-19,Pierre Schoeller
+707,tt1514837,2017-09-02,2017-09-02,Warsaw 2009,Rewers,https://www.imdb.com/title/tt1514837/,movie,7.1,99,2009,"Comedy, Drama, Romance, Thriller",1845,2009-10-13,Borys Lankosz
+708,tt1305819,2017-09-02,2017-09-02,Oslo 2009,A Moment in June,https://www.imdb.com/title/tt1305819/,movie,6.6,106,2008,Drama,124,2008-10-03,O. Nathapon
+709,tt1515201,2017-09-02,2017-09-02,Pusan 2009,Kick Off,https://www.imdb.com/title/tt1515201/,movie,6.8,81,2009,Drama,76,2009-10-10,Shawkat Amin Korki
+710,tt1528042,2017-09-02,2017-09-02,Pecs 2009,Cealalta Irina,https://www.imdb.com/title/tt1528042/,movie,7.1,90,2009,"Drama, Thriller",242,2009-10-10,Andrei Gruzsniczki
+711,tt1395059,2017-09-02,2017-09-02,Haifa 2009,Poltory komnaty ili Sentimentalnoe puteshestvie na Rodinu,https://www.imdb.com/title/tt1395059/,movie,7.1,130,2009,"Animation, Biography",467,2009-01-23,Andrey Khrzhanovskiy
+712,tt1483795,2017-09-02,2017-09-02,Rio de Janeiro 2009,Os Famosos e os Duendes da Morte,https://www.imdb.com/title/tt1483795/,movie,6.7,101,2009,Drama,660,2009-08-08,Esmir Filho
+713,tt1306964,2017-09-02,2017-09-02,San Sebastian 2009,Los condenados,https://www.imdb.com/title/tt1306964/,movie,5.9,94,2009,"Drama, Thriller",116,2009-09-24,Isaki Lacuesta
+714,tt1342378,2017-09-02,2017-09-02,Reykjavik 2009,Flickan,https://www.imdb.com/title/tt1342378/,movie,6.6,100,2009,"Drama, Family",1445,2009-02-10,Fredrik Edfeldt
+715,tt1499679,2017-09-02,2017-09-02,Toronto 2009,Paltadacho munis,https://www.imdb.com/title/tt1499679/,movie,7.4,96,2009,Drama,44,2009-09-14,Laxmikant Shetgaonkar
+716,tt1257562,2017-09-02,2017-09-02,Toronto 2009,Hadewijch,https://www.imdb.com/title/tt1257562/,movie,6.7,105,2009,Drama,1677,2009-09-11,Bruno Dumont
+717,tt1270799,2017-09-02,2017-09-02,Troia 2009,Het zusje van Katia,https://www.imdb.com/title/tt1270799/,movie,6.2,85,2008,Drama,205,2008-08-08,Mijke de Jong
+718,tt1405809,2017-09-02,2017-09-02,Venice 2009,Lourdes,https://www.imdb.com/title/tt1405809/,movie,6.9,96,2009,Drama,2941,2009-09-05,Jessica Hausner
+719,tt1499639,2017-09-02,2017-09-02,Venice 2009,Choi voi,https://www.imdb.com/title/tt1499639/,movie,6.4,110,2009,Drama,253,2009-09-06,Bui Thac Chuyên
+720,tt1514450,2017-09-02,2017-09-02,Montreal 2009,Fang zhi gu niang,https://www.imdb.com/title/tt1514450/,movie,6.9,100,2009,Drama,85,2009-09-01,Quan'an Wang
+721,tt1422101,2017-09-02,2017-09-02,Sarajevo 2009,Ordinary People,https://www.imdb.com/title/tt1422101/,movie,6.2,79,2009,Drama,350,2009-05-15,Vladimir Perisic
+722,tt1320352,2017-09-02,2017-09-02,Locarno 2009,Nothing Personal,https://www.imdb.com/title/tt1320352/,movie,7.1,85,2009,Drama,4374,2009-08-14,Urszula Antoniak
+723,tt1111876,2017-09-02,2017-09-02,Brisbane 2009,Balibo,https://www.imdb.com/title/tt1111876/,movie,7.1,111,2009,"Drama, Mystery, Thriller",2392,2009-07-24,Robert Connolly
+724,tt1232776,2017-09-02,2017-09-02,Motovun 2009,Fish Tank,https://www.imdb.com/title/tt1232776/,movie,7.3,123,2009,Drama,55819,2009-05-14,Andrea Arnold
+725,tt1330591,2017-09-02,2017-09-02,Yerevan 2009,Sonbahar,https://www.imdb.com/title/tt1330591/,movie,7.8,99,2008,Drama,4922,2008-08-07,Özcan Alper
+726,tt1333634,2017-09-02,2017-09-02,Jerusalem 2009,Burma VJ: Reporter i et lukket land,https://www.imdb.com/title/tt1333634/,movie,8.0,84,2008,"Documentary, History, News",2274,2008-11-12,Anders Østergaard
+727,tt0991351,2017-09-02,2017-09-02,Karlovy Vary 2009,Nije kraj,https://www.imdb.com/title/tt0991351/,movie,7.1,100,2008,"Comedy, Drama, War",890,2008-04-22,Vinko Bresan
+728,tt1482194,2017-09-02,2017-09-02,Moscow 2009,Melodiya dlya sharmanki,https://www.imdb.com/title/tt1482194/,movie,6.9,153,2009,Drama,255,2009-06-21,Kira Muratova
+729,tt1132593,2017-09-02,2017-09-02,Cluj 2009,Kan door huid heen,https://www.imdb.com/title/tt1132593/,movie,6.9,94,2009,Drama,600,2009-01-29,Esther Rots
+730,tt1190858,2017-09-02,2017-09-02,Cannes 2009,Amreeka,https://www.imdb.com/title/tt1190858/,movie,7.0,96,2009,Drama,3333,2009-01-17,Cherien Dabis
+731,tt1337051,2017-09-02,2017-09-02,Cannes 2009,"Politist, adjectiv",https://www.imdb.com/title/tt1337051/,movie,7.0,115,2009,"Crime, Drama",4521,2009-05-15,Corneliu Porumboiu
+732,tt1149362,2017-09-02,2017-09-02,Cannes 2009,Das weiße Band - Eine deutsche Kindergeschichte,https://www.imdb.com/title/tt1149362/,movie,7.8,144,2009,"Drama, History, Mystery, Thriller",64185,2009-05-21,Michael Haneke
+733,tt0460034,2017-09-02,2017-09-02,Ankara 2009,Transe,https://www.imdb.com/title/tt0460034/,movie,6.3,126,2006,Drama,461,2006-05-23,Teresa Villaverde
+734,tt1297928,2017-09-02,2017-09-02,San Francisco 2009,Everything Strange and New,https://www.imdb.com/title/tt1297928/,movie,5.8,84,2009,Drama,103,2009-01-19,Frazer Bradshaw
+735,tt1157549,2017-09-02,2017-09-02,"Lisbon 2009
+Sofia 2009",Cea mai fericitã fatã din lume,https://www.imdb.com/title/tt1157549/,movie,6.9,99,2009,"Comedy, Drama",1001,2009-02-07,Radu Jude
+736,tt1370212,2017-09-02,2017-09-02,Istanbul 2009,Hayat Var,https://www.imdb.com/title/tt1370212/,movie,7.4,121,2008,Drama,2763,2008-10-17,Reha Erdem
+737,tt1284591,2017-09-02,2017-09-02,Istanbul 2009,Süt,https://www.imdb.com/title/tt1284591/,movie,6.7,102,2008,Drama,2711,2008-09-01,Semih Kaplanoglu
+738,tt1267179,2017-09-02,2017-09-02,Lecce 2009,Mukha,https://www.imdb.com/title/tt1267179/,movie,6.5,107,2008,Drama,108,2008-02-26,Vladimir Kott
+739,tt1204773,2017-09-02,2017-09-02,Buenos Aires 2009,Alle Anderen,https://www.imdb.com/title/tt1204773/,movie,6.7,119,2009,"Drama, Romance",3233,2009-02-09,Maren Ade
+740,tt1362065,2017-09-02,2017-09-02,Hong Kong 2009,"Dongbei, dongbei",https://www.imdb.com/title/tt1362065/,movie,6.3,81,2009,Drama,30,2009-02-07,Zou Peng
+741,tt1225831,2017-09-02,2017-09-02,Toulouse 2009,Historias extraordinarias,https://www.imdb.com/title/tt1225831/,movie,8.0,245,2008,"Drama, Mystery",877,2008-04-30,Mariano Llinás
+742,tt1318067,2017-09-02,2017-09-02,Guadalajara 2009,Oveja negra,https://www.imdb.com/title/tt1318067/,movie,6.4,85,2009,"Action, Adventure",181,2009-03-31,Humberto Hinojosa Ozcariz
+743,tt1187044,2017-09-02,2017-09-02,Guadalajara 2009,La Nana,https://www.imdb.com/title/tt1187044/,movie,7.3,95,2009,"Comedy, Drama",5413,2009-01-17,Sebastián Silva
+744,tt1295068,2017-09-02,2017-09-02,Thessaloniki 2009,Prodigal Sons,https://www.imdb.com/title/tt1295068/,movie,7.1,86,2008,Documentary,633,2008-08-29,Kimberly Reed
+745,tt1206014,2017-09-02,2017-09-07,"Fribourg 2009
+Mexico City 2008",Intimidades de Shakespeare y Víctor Hugo,https://www.imdb.com/title/tt1206014/,movie,8.2,83,2008,"Documentary, Crime, Family, Thriller",211,2008-02-27,Yulene Olaizola
+746,tt1389360,2017-09-02,2017-09-02,Mexico City 2009,Nuestra lucha,https://www.imdb.com/title/tt1389360/,movie,,,2009,Documentary,,2009-02-22,Jaime Rogel
+747,tt1128075,2017-09-02,2017-09-02,Berlin 2009,Ai no mukidashi,https://www.imdb.com/title/tt1128075/,movie,8.1,237,2008,"Action, Comedy, Drama, Romance",10421,2008-11-29,Sion Sono
+748,tt1252610,2017-09-02,2017-09-02,Berlin 2009,Nord,https://www.imdb.com/title/tt1252610/,movie,6.7,79,2009,"Comedy, Drama",2921,2009-02-06,Rune Denstad Langlo
+749,tt1206488,2017-09-02,2017-09-02,Berlin 2009,La teta asustada,https://www.imdb.com/title/tt1206488/,movie,6.7,95,2009,"Drama, Music",6372,2009-02-12,Claudia Llosa
+750,tt1299391,2017-09-02,2017-09-02,Gothenburg 2009,Velsignelsen,https://www.imdb.com/title/tt1299391/,movie,5.5,75,2009,Drama,133,2009-01-25,Heidi Maria Faisst
+751,tt1129405,2017-09-02,2017-09-02,Rotterdam 2009,Babi Buta yang Ingin Terbang,https://www.imdb.com/title/tt1129405/,movie,6.2,77,2008,Drama,206,2008-10-03,Edwin
+752,tt1173745,2017-09-02,2017-09-21,"Tromsø 2009
+Palm Springs 2009
+
+Best foreign language film of the year - 2009",Revanche,https://www.imdb.com/title/tt1173745/,movie,7.5,121,2008,"Crime, Drama, Romance, Thriller",13097,2008-02-10,Götz Spielmann
+753,tt1232827,2017-09-06,2017-09-06,Taipei 2008,Ting che,https://www.imdb.com/title/tt1232827/,movie,6.9,112,2008,Drama,577,2008-05-31,Mong-Hong Chung
+754,tt1585557,2017-09-06,2017-09-06,Tallinn 2008,Aja meistrid,https://www.imdb.com/title/tt1585557/,movie,7.5,72,2008,"Documentary, Biography",8,2008-02-20,Mait Laas
+755,tt0978833,2017-09-06,2017-09-06,Gijon 2008,Una semana solos,https://www.imdb.com/title/tt0978833/,movie,5.9,110,2007,"Comedy, Drama",350,2007-02-28,Celina Murga
+756,tt1176942,2017-09-06,2017-09-06,Cairo 2008,Retorno a Hansala,https://www.imdb.com/title/tt1176942/,movie,6.4,95,2008,Drama,174,2008-09-10,Chus Gutiérrez
+757,tt1090642,2017-09-06,2017-09-06,Thessaloniki 2008,"Kala krymmena mystika, Athanasia",https://www.imdb.com/title/tt1090642/,movie,6.3,100,2008,"Drama, Romance",163,2008-12-04,Panos Karkanevatos
+758,tt1080857,2017-09-06,2017-09-06,Thessaloniki 2008,Voy a explotar,https://www.imdb.com/title/tt1080857/,movie,6.6,106,2008,Drama,687,2008-09-01,Gerardo Naranjo
+759,tt0978759,2017-09-06,2017-09-06,Geneva 2008,Frozen River,https://www.imdb.com/title/tt0978759/,movie,7.1,97,2008,"Crime, Drama",23895,2008-01-18,Courtney Hunt
+760,tt1239388,2017-09-06,2017-09-06,London 2008,Three Blind Mice,https://www.imdb.com/title/tt1239388/,movie,6.1,94,2008,"Comedy, Drama",347,2008-06-08,Matthew Newton
+761,tt1103963,2017-09-06,2017-09-06,Oslo 2008,Er shi si cheng ji,https://www.imdb.com/title/tt1103963/,movie,7.1,112,2008,Drama,1533,2008-05-17,Zhangke Jia
+762,tt1221141,2017-09-06,2017-09-06,Rio de Janeiro 2008,La mujer sin cabeza,https://www.imdb.com/title/tt1221141/,movie,6.5,87,2008,"Drama, Mystery, Thriller",4109,2008-05-21,Lucrecia Martel
+763,tt1090680,2017-09-06,2017-09-06,New Delhi 2008,Milh Hadha al-Bahr,https://www.imdb.com/title/tt1090680/,movie,6.9,109,2008,"Drama, Romance",989,2008-05-16,Annemarie Jacir
+764,tt1095421,2017-09-06,2017-09-06,New Delhi 2008,Ramchand Pakistani,https://www.imdb.com/title/tt1095421/,movie,7.6,103,2008,Drama,1179,2008-04-28,Mehreen Jabbar
+765,tt0920460,2017-09-06,2017-09-07,"Jerusalem 2008
+Yerevan 2008",Gitmek: Benim Marlon ve Brandom,https://www.imdb.com/title/tt0920460/,movie,6.7,93,2008,"Drama, Romance, War",795,2008-01-25,Hüseyin Karabey
+766,tt1085491,2017-09-06,2017-09-06,Kerala 2008,Postales de Leningrado,https://www.imdb.com/title/tt1085491/,movie,6.7,85,2007,Drama,259,2007-09-07,Mariana Rondón
+767,tt1353033,2017-09-06,2017-09-06,Kerala 2008,Manjadikuru,https://www.imdb.com/title/tt1353033/,movie,8.1,120,2008,"Drama, Family",853,2008-12-17,Anjali Menon
+768,tt1310654,2017-09-06,2017-09-06,Dubai 2008,Mascarades,https://www.imdb.com/title/tt1310654/,movie,6.7,94,2008,Comedy,333,2008-11-25,Lyès Salem
+769,tt1173744,2017-09-06,2017-09-07,"Havana 2008
+Cluj 2008",La rabia,https://www.imdb.com/title/tt1173744/,movie,5.9,85,2008,Drama,391,2008-02-11,Albertina Carri
+770,tt1094275,2017-09-06,2017-09-06,Bratislava 2008,Sous les bombes,https://www.imdb.com/title/tt1094275/,movie,7.0,98,2007,"Drama, Romance, War",1354,2007-09-02,Philippe Aractingi
+771,tt1223975,2017-09-06,2017-09-06,Torino 2008,Tony Manero,https://www.imdb.com/title/tt1223975/,movie,6.8,97,2008,"Drama, Music",2997,2008-05-17,Pablo Larraín
+772,tt0872245,2017-09-06,2017-09-06,Stockholm 2008,Better Things,https://www.imdb.com/title/tt0872245/,movie,5.3,93,2008,Drama,625,2008-05-17,Duane Hopkins
+773,tt1153690,2017-09-06,2017-09-07,"Ljubljana 2008
+San Francisco 2008
+Buenos Aires 2008",Ballast,https://www.imdb.com/title/tt1153690/,movie,6.9,96,2008,Drama,2166,2008-01-19,Lance Hammer
+774,tt1252383,2017-09-06,2017-09-06,Cottbus 2008,Dikoe pole,https://www.imdb.com/title/tt1252383/,movie,7.1,108,2008,Drama,586,2008-06-12,Mikheil Kalatozishvili
+775,tt1318899,2017-09-06,2017-09-06,Mar del Plata 2008,"La Tigra, Chaco",https://www.imdb.com/title/tt1318899/,movie,6.9,80,2009,"Comedy, Drama, Romance",80,2009-07-10,"Federico Godfrid, Juan Sasiaín"
+776,tt1048147,2017-09-06,2017-09-06,Mannheim-Heidelberg 2008,Borderline,https://www.imdb.com/title/tt1048147/,movie,6.6,110,2008,Drama,1056,2008-02-08,Lyne Charlebois
+777,tt1444306,2017-09-06,2017-09-06,Leipzig 2008,El olvido,https://www.imdb.com/title/tt1444306/,movie,7.4,93,2008,Documentary,86,2008-10-23,Heddy Honigmann
+778,tt1285144,2017-09-06,2017-09-06,Valladolid 2008,La ventana,https://www.imdb.com/title/tt1285144/,movie,6.7,85,2008,Drama,523,2008-09-07,Carlos Sorin
+779,tt1081929,2017-09-06,2017-09-06,Vienna 2008,Aquele Querido Mês de Agosto,https://www.imdb.com/title/tt1081929/,movie,7.0,147,2008,"Music, Romance",1418,2008-05-21,Miguel Gomes
+780,tt1204366,2017-09-06,2017-09-06,Haifa 2008,Desierto adentro,https://www.imdb.com/title/tt1204366/,movie,6.7,110,2008,Drama,270,2008-03-11,Rodrigo Plá
+781,tt1225290,2017-09-06,2017-09-06,Athens 2008,Cztery noce z Anna,https://www.imdb.com/title/tt1225290/,movie,6.8,87,2008,"Crime, Drama, Horror, Thriller",1608,2008-05-15,Jerzy Skolimowski
+782,tt1092021,2017-09-06,2017-09-06,Warsaw 2008,A nyomozó,https://www.imdb.com/title/tt1092021/,movie,7.5,107,2008,"Comedy, Crime, Drama, Horror, Thriller",2311,2008-01-31,Attila Gigor
+783,tt1389082,2017-09-06,2017-09-06,Pusan 2008,Zha lai nuo er,https://www.imdb.com/title/tt1389082/,movie,6.8,92,2008,Drama,45,2008-10-06,Ye Zhao
+784,tt1319569,2017-09-06,2017-09-06,Reykjavik 2008,Home,https://www.imdb.com/title/tt1319569/,movie,7.0,98,2008,Drama,3745,2008-05-18,Ursula Meier
+785,tt1198410,2017-09-06,2017-09-06,San Sebastian 2008,Tiro en la cabeza,https://www.imdb.com/title/tt1198410/,movie,4.4,85,2008,Drama,272,2008-09-23,Jaime Rosales
+786,tt1048173,2017-09-06,2017-09-06,Riga 2008,Vogelfrei,https://www.imdb.com/title/tt1048173/,movie,6.7,95,2007,Drama,78,2007-06-07,"Gatis Smits, Janis Kalejs, Janis Putnins, Anna Viduleja"
+787,tt0488000,2017-09-06,2017-09-06,Riga 2008,Andalucia,https://www.imdb.com/title/tt0488000/,movie,5.9,90,2007,Drama,116,2007-08-31,Alain Gomis
+788,tt0829211,2017-09-06,2017-09-06,Perm 2008,Kako postati heroj,https://www.imdb.com/title/tt0829211/,movie,8.2,80,2007,"Documentary, Sport",109,2007-02-26,Mladen Maticevic
+789,tt1059977,2017-09-06,2017-09-06,Pecs 2008,U reki,https://www.imdb.com/title/tt1059977/,movie,6.8,84,2007,Drama,35,2007-06-22,Eva Neymann
+790,tt0996982,2017-09-06,2017-09-06,Montreal 2008,Turneja,https://www.imdb.com/title/tt0996982/,movie,7.2,102,2008,"Action, Adventure, Comedy, War",2311,2008-08-30,Goran Markovic
+791,tt0363780,2017-09-06,2017-09-06,Toronto 2008,Lymelife,https://www.imdb.com/title/tt0363780/,movie,6.9,95,2008,"Comedy, Drama, Romance",13487,2008-09-08,Derick Martini
+792,tt0445953,2017-09-06,2017-09-06,Toronto 2008,Disgrace,https://www.imdb.com/title/tt0445953/,movie,6.5,119,2008,Drama,5083,2008-09-06,Steve Jacobs
+793,tt1095442,2017-09-06,2017-09-06,Venice 2008,Goodbye Solo,https://www.imdb.com/title/tt1095442/,movie,7.3,91,2008,Drama,5413,2008-08-31,Ramin Bahrani
+794,tt1284577,2017-09-06,2017-09-06,Venice 2008,Gabbla,https://www.imdb.com/title/tt1284577/,movie,6.5,140,2008,Drama,91,2008-09-30,Tariq Teguia
+795,tt0995712,2017-09-06,2017-09-06,Sarajevo 2008,Buick Riviera,https://www.imdb.com/title/tt0995712/,movie,6.3,86,2008,Drama,231,2008-07-20,Goran Rusinovic
+796,tt1183942,2017-09-06,2017-09-06,Locarno 2008,Parque vía,https://www.imdb.com/title/tt1183942/,movie,6.8,86,2008,Drama,332,2008-03-01,Enrique Rivero
+797,tt2498422,2017-09-06,2017-09-06,Brisbane 2008,Hao mao,https://www.imdb.com/title/tt2498422/,movie,,108,2008,Drama,,2008-09-26,Liang Ying
+798,tt1226291,2017-09-07,2017-09-07,Motovun 2008,Slepé lásky,https://www.imdb.com/title/tt1226291/,movie,7.2,77,2008,"Documentary, Drama",331,2008-05-31,Juraj Lehotsky
+799,tt1080716,2017-09-07,2017-09-07,Karlovy Vary 2008,Karamazovi,https://www.imdb.com/title/tt1080716/,movie,7.6,110,2008,Drama,1087,2008-04-24,Petr Zelenka
+800,tt0923688,2017-09-07,2017-09-07,Zanzibar 2008,Ezra,https://www.imdb.com/title/tt0923688/,movie,6.5,103,2007,Drama,224,2007-01-23,Newton I. Aduaka
+801,tt1353180,2017-09-07,2017-09-07,Moscow 2008,Odnazhdy v provintsii,https://www.imdb.com/title/tt1353180/,movie,5.8,100,2008,Drama,114,2008-09-25,Katya Shagalova
+802,tt0899216,2017-09-07,2017-09-07,Troia 2008,Blodsbånd,https://www.imdb.com/title/tt0899216/,movie,6.8,100,2007,"Crime, Drama",539,2007-03-02,Marius Holst
+803,tt1176954,2017-09-07,2017-09-07,Cannes 2008,Eldorado,https://www.imdb.com/title/tt1176954/,movie,6.7,80,2008,"Comedy, Drama",1987,2008-05-18,Bouli Lanners
+804,tt0986233,2017-09-07,2017-09-07,Cannes 2008,Hunger,https://www.imdb.com/title/tt0986233/,movie,7.6,96,2008,"Biography, Drama",62384,2008-05-15,Steve McQueen
+805,tt0910860,2017-09-07,2017-09-07,Cannes 2008,Delta,https://www.imdb.com/title/tt0910860/,movie,6.4,92,2008,Drama,1470,2008-02-02,Kornél Mundruczó
+806,tt1094627,2017-09-07,2017-09-07,Ankara 2008,Buda as sharm foru rikht,https://www.imdb.com/title/tt1094627/,movie,7.3,81,2007,"Drama, War",1934,2007-09-09,Hana Makhmalbaf
+807,tt1016307,2017-09-07,2017-09-07,San Francisco 2008,Megane,https://www.imdb.com/title/tt1016307/,movie,6.8,106,2007,"Comedy, Drama",1207,2007-09-22,Naoko Ogigami
+808,tt1122599,2017-09-07,2017-09-07,Lisbon 2008,Momma's Man,https://www.imdb.com/title/tt1122599/,movie,6.0,94,2008,"Comedy, Drama",574,2008-01-18,Azazel Jacobs
+809,tt0847750,2017-09-07,2017-09-07,Lecce 2008,Nadzieja,https://www.imdb.com/title/tt0847750/,movie,6.1,101,2007,"Action, Drama, Mystery",263,2007-06-24,Stanislaw Mucha
+810,tt1179793,2017-09-07,2017-09-07,Istanbul 2008,Tatil Kitabi,https://www.imdb.com/title/tt1179793/,movie,6.3,92,2008,Drama,785,2008-02-10,Seyfi Teoman
+811,tt0953318,2017-09-07,2017-09-07,Istanbul 2008,Ben X,https://www.imdb.com/title/tt0953318/,movie,7.4,93,2007,"Drama, Thriller",17935,2007-08-26,Nic Balthazar
+812,tt0979917,2017-09-07,2017-09-07,Wiesbaden 2008,Magnus,https://www.imdb.com/title/tt0979917/,movie,5.9,86,2007,Drama,450,2007-05-18,Kadri Kõusaar
+813,tt0841017,2017-09-07,2017-09-07,Toulouse 2008,Cochochi,https://www.imdb.com/title/tt0841017/,movie,6.4,87,2007,Family,809,2007-09-03,"Laura Amelia Guzmán, Israel Cárdenas"
+814,tt1135992,2017-09-07,2017-09-07,Hong Kong 2008,Wonderful Town,https://www.imdb.com/title/tt1135992/,movie,6.6,92,2007,"Drama, Romance",804,2007-10-08,Aditya Assarat
+815,tt1053822,2017-09-07,2017-09-07,Guadalajara 2008,El camino,https://www.imdb.com/title/tt1053822/,movie,6.3,90,2008,Drama,88,2008-02-13,Ishtar Yasin Gutierrez
+816,tt1205918,2017-09-07,2017-09-07,Sofia 2008,Shivachki,https://www.imdb.com/title/tt1205918/,movie,7.1,95,2007,Drama,444,2007-10-12,Lyudmil Todorov
+817,tt1198128,2017-09-07,2017-09-07,Thessaloniki 2008,Oi erastes tis Axou,https://www.imdb.com/title/tt1198128/,movie,,80,2008,Documentary,,2008-03-13,Nikos Ligouris
+818,tt1157609,2017-09-07,2017-09-07,Thessaloniki 2008,Be Like Others,https://www.imdb.com/title/tt1157609/,movie,7.4,74,2008,Documentary,244,2008-01-19,Tanaz Eshaghian
+819,tt2511716,2017-09-07,2017-09-07,Mumbai 2008,Tingya,https://www.imdb.com/title/tt2511716/,movie,8.1,116,2008,Drama,34,2008-03-31,Mangesh Hadawale
+820,tt1090316,2017-09-07,2017-09-07,Miami 2008,Foul Gesture,https://www.imdb.com/title/tt1090316/,movie,6.2,100,2006,"Comedy, Crime, Drama",122,2006-10-31,Tzahi Grad
+821,tt1094635,2017-09-07,2017-09-07,Fribourg 2008,Geomen tangyi sonyeo oi,https://www.imdb.com/title/tt1094635/,movie,7.0,90,2007,Drama,199,2007-09-01,Soo-il Jeon
+822,tt1038904,2017-09-07,2017-09-07,Mexico City 2008,Calle Santa Fe,https://www.imdb.com/title/tt1038904/,movie,7.3,163,2007,Documentary,124,2007-05-22,Carmen Castillo
+823,tt1188744,2017-09-07,2017-09-07,Berlin 2008,Shahida,https://www.imdb.com/title/tt1188744/,movie,8.1,76,2008,Documentary,40,2008-02-08,Natalie Assouline
+824,tt0995747,2017-09-07,2017-09-07,Berlin 2008,Rusalka,https://www.imdb.com/title/tt0995747/,movie,7.3,115,2007,"Comedy, Drama, Fantasy",3044,2007-06-04,Anna Melikyan
+825,tt1101675,2017-09-07,2017-09-07,Berlin 2008,Lake Tahoe,https://www.imdb.com/title/tt1101675/,movie,6.7,89,2008,Drama,1594,2008-02-09,Fernando Eimbcke
+826,tt1160935,2017-09-07,2017-09-07,Mumbai 2008,Salata baladi,https://www.imdb.com/title/tt1160935/,movie,8.3,105,2007,Documentary,27,2007-08-06,Nadia Kamel
+827,tt1135965,2017-09-07,2017-09-07,Rotterdam 2008,"El cielo, la tierra, y la lluvia",https://www.imdb.com/title/tt1135965/,movie,6.3,110,2008,Drama,166,2008-01-30,José Luis Torres Leiva
+828,tt0431842,2017-09-07,2017-09-07,Gothenburg 2008,Gå med fred Jamil - Ma salama Jamil,https://www.imdb.com/title/tt0431842/,movie,6.9,90,2008,"Action, Drama",395,2008-01-28,Omar Shargawi
+829,tt0487419,2017-09-07,2017-09-07,Tromsø 2008,La graine et le mulet,https://www.imdb.com/title/tt0487419/,movie,7.4,151,2007,Drama,6526,2007-09-03,Abdellatif Kechiche
+830,tt1058748,2017-09-07,2017-09-07,Dhaka 2008,Sankara,https://www.imdb.com/title/tt1058748/,movie,7.1,87,2007,Drama,125,2007-04-18,Prasanna Jayakody
+831,tt0817225,2017-09-07,2017-09-07,Palm Springs 2008,Milyang,https://www.imdb.com/title/tt0817225/,movie,7.5,142,2007,Drama,5936,2007-05-17,Chang-dong Lee
+832,tt1032846,2017-09-07,2017-09-07,Palm Springs 2008,"4 luni, 3 saptamâni si 2 zile",https://www.imdb.com/title/tt1032846/,movie,7.9,113,2007,Drama,53080,2007-05-17,Cristian Mungiu
+833,tt0961198,2017-09-07,2017-09-07,Palm Springs 2008,Armin,https://www.imdb.com/title/tt0961198/,movie,6.8,82,2007,Drama,1013,2007-02-09,Ognjen Svilicic
